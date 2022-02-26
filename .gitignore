@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+input files/Police_Department_Incident_Reports__2018_to_Present.csv
+**/*.pyc
+__pycache__
