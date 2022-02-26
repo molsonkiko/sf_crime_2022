@@ -58,12 +58,13 @@ Aggravated Assault,Outcome Sub-Type,0.0,text,12,NEG                 ,881,,,,,,,
 Aggravated Assault,Outcome Sub-Type Description,0.0,text,12,Negotiated                  ,881,,,,,,,
 Aggravated Assault,Dispo Case Type,0.0,text,2,Felony         ,985,,,,,,,
 Aggravated Assault,Sentence Type,0.0,text,10,                              ,727,,,,,,,
-Aggravated Assault,SP Term,0.9047029702970297,Decimal number,17,,,1730.9848484848485,0.0,730.0,1460.0,1825.0,8760.0,1729.181528546116
-Aggravated Assault,CJ Term,0.5538366336633663,Decimal number,147,,,126.95120736868311,0.0,17.0,73.0,182.5,2159.5833333333335,156.38041827091683
-Aggravated Assault,Supervision Term,0.0,text,10,                ,966,,,,,,,
-Aggravated Assault,Program Term,0.9300742574257426,Decimal number,15,,,313.92477876106193,0.0,182.5,365.0,365.0,1095.0,204.85105045518918
+Aggravated Assault,SP Term,0.0,text,17,       ,1217,,,,,,,
+Aggravated Assault,CJ Term,0.0,text,138,       ,651,,,,,,,
+Aggravated Assault,Supervision Term,0.0,text,10,                ,722,,,,,,,
+Aggravated Assault,Program Term,0.8403465346534653,Decimal number,3,,,207513428.77906978,0.0,0.0,0.0,0.0,17748900625.0,1906342738.2875702
 Aggravated Assault,Forfeiture,0.0,text,1,                ,1616,,,,,,,
 Aggravated Assault,Outcome Description,0.0,text,7,Guilty Plea        ,889,,,,,,,
+Aggravated Assault,dismissed,0.0,,2,False,1371,,,,,,,
 Arson,index,0.0,Whole Number,238,,,17039.789915966387,103.0,8659.75,18997.0,25875.0,30700.0,9761.616500267492
 Arson,Incident Datetime,0.0,text,182,2019/10/01 01:12:00 PM,4,,,,,,,
 Arson,Incident Date,0.0,text,167,2018/05/25,5,,,,,,,
@@ -123,12 +124,13 @@ Arson,Outcome Sub-Type,0.0,text,5,                    ,130,,,,,,,
 Arson,Outcome Sub-Type Description,0.0,text,5,                            ,130,,,,,,,
 Arson,Dispo Case Type,0.0,text,2,Felony         ,126,,,,,,,
 Arson,Sentence Type,0.0,text,6,                              ,144,,,,,,,
-Arson,SP Term,0.9663865546218487,Decimal number,3,,,1368.75,486.6666666666667,1338.3333333333333,1338.3333333333333,1703.3333333333333,1703.3333333333333,399.57293670371587
-Arson,CJ Term,0.6470588235294118,Decimal number,40,,,71.48214285714286,1.0,21.5,45.0,84.75,365.0,81.56095534210407
-Arson,Supervision Term,0.0,text,5,                ,208,,,,,,,
-Arson,Program Term,0.9831932773109243,Decimal number,2,,,137.0,0.5,137.0,182.5,182.5,182.5,91.0
+Arson,SP Term,0.0,text,5,       ,215,,,,,,,
+Arson,CJ Term,0.0,text,40,       ,139,,,,,,,
+Arson,Supervision Term,0.0,text,6,                ,193,,,,,,,
+Arson,Program Term,0.9369747899159664,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Arson,Forfeiture,0.0,text,1,                ,238,,,,,,,
 Arson,Outcome Description,0.0,text,4,                   ,129,,,,,,,
+Arson,dismissed,0.0,,2,False,223,,,,,,,
 Bad Checks,index,0.0,Whole Number,1,,,5347.0,5347.0,5347.0,5347.0,5347.0,5347.0,
 Bad Checks,Incident Datetime,0.0,text,1,2018/04/27 04:55:00 PM,1,,,,,,,
 Bad Checks,Incident Date,0.0,text,1,2018/04/27,1,,,,,,,
@@ -188,12 +190,13 @@ Bad Checks,Outcome Sub-Type,0.0,text,1,NEG                 ,1,,,,,,,
 Bad Checks,Outcome Sub-Type Description,0.0,text,1,Negotiated                  ,1,,,,,,,
 Bad Checks,Dispo Case Type,0.0,text,1,Felony         ,1,,,,,,,
 Bad Checks,Sentence Type,0.0,text,1,ISS Formal Probation/County Ja,1,,,,,,,
-Bad Checks,SP Term,1.0,Decimal number,0,,,,,,,,,
-Bad Checks,CJ Term,0.0,Decimal number,1,,,288.0,288.0,288.0,288.0,288.0,288.0,
+Bad Checks,SP Term,0.0,text,1,       ,1,,,,,,,
+Bad Checks,CJ Term,0.0,text,1,288.0,1.0,,,,,,,
 Bad Checks,Supervision Term,0.0,text,1,4.0,1.0,,,,,,,
 Bad Checks,Program Term,1.0,Decimal number,0,,,,,,,,,
 Bad Checks,Forfeiture,0.0,text,1,                ,1,,,,,,,
 Bad Checks,Outcome Description,0.0,text,1,Guilty Plea        ,1,,,,,,,
+Bad Checks,dismissed,0.0,,1,False,1,,,,,,,
 Burglary - Commercial,index,0.0,Whole Number,521,,,15961.579654510557,59.0,9020.0,14414.0,23986.0,30699.0,9098.99794323786
 Burglary - Commercial,Incident Datetime,0.0,text,321,2020/11/01 05:13:00 PM,12,,,,,,,
 Burglary - Commercial,Incident Date,0.0,text,271,2020/11/01,15,,,,,,,
@@ -253,12 +256,13 @@ Burglary - Commercial,Outcome Sub-Type,0.0,text,7,NEG                 ,252,,,,,,
 Burglary - Commercial,Outcome Sub-Type Description,0.0,text,7,Negotiated                  ,252,,,,,,,
 Burglary - Commercial,Dispo Case Type,0.0,text,2,Felony         ,309,,,,,,,
 Burglary - Commercial,Sentence Type,0.0,text,8,                              ,247,,,,,,,
-Burglary - Commercial,SP Term,0.9520153550863724,Decimal number,11,,,1255.6,0.0,730.0,973.3333333333334,1825.0,3041.6666666666665,863.6905202761084
-Burglary - Commercial,CJ Term,0.5662188099808061,Decimal number,52,,,99.60840707964601,0.0,9.0,30.0,180.0,372.0,123.88308774906062
-Burglary - Commercial,Supervision Term,0.0,text,7,                ,321,,,,,,,
-Burglary - Commercial,Program Term,0.9385796545105566,Decimal number,9,,,246.9591346153846,0.5,90.0,136.875,365.0,730.0,193.6634334409514
+Burglary - Commercial,SP Term,0.0,text,12,       ,431,,,,,,,
+Burglary - Commercial,CJ Term,0.0,text,48,       ,231,,,,,,,
+Burglary - Commercial,Supervision Term,0.0,text,7,                ,257,,,,,,,
+Burglary - Commercial,Program Term,0.8733205374280231,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Burglary - Commercial,Forfeiture,0.0,text,1,                ,521,,,,,,,
 Burglary - Commercial,Outcome Description,0.0,text,5,Guilty Plea        ,279,,,,,,,
+Burglary - Commercial,dismissed,0.0,,2,False,455,,,,,,,
 Burglary - Hot Prowl,index,0.0,Whole Number,383,,,15415.227154046997,179.0,8819.5,16137.0,21643.5,30673.0,8565.656112755358
 Burglary - Hot Prowl,Incident Datetime,0.0,text,237,2018/12/19 12:45:00 PM,12,,,,,,,
 Burglary - Hot Prowl,Incident Date,0.0,text,198,2018/12/19,14,,,,,,,
@@ -318,12 +322,13 @@ Burglary - Hot Prowl,Outcome Sub-Type,0.0,text,8,NEG                 ,225,,,,,,,
 Burglary - Hot Prowl,Outcome Sub-Type Description,0.0,text,8,Negotiated                  ,225,,,,,,,
 Burglary - Hot Prowl,Dispo Case Type,0.0,text,2,Felony         ,306,,,,,,,
 Burglary - Hot Prowl,Sentence Type,0.0,text,7,                              ,163,,,,,,,
-Burglary - Hot Prowl,SP Term,0.8772845953002611,Decimal number,8,,,859.4326241134752,0.0,486.6666666666667,730.0,1095.0,2798.3333333333335,531.1841066376268
-Burglary - Hot Prowl,CJ Term,0.49869451697127937,Decimal number,47,,,140.82769097222226,2.0,50.0,83.5,183.125,411.0,124.08140602604493
-Burglary - Hot Prowl,Supervision Term,0.0,text,8,                ,228,,,,,,,
-Burglary - Hot Prowl,Program Term,0.9686684073107049,Decimal number,3,,,380.2083333333333,182.5,365.0,365.0,365.0,730.0,122.01182102442766
+Burglary - Hot Prowl,SP Term,0.0,text,9,       ,289,,,,,,,
+Burglary - Hot Prowl,CJ Term,0.0,text,47,       ,144,,,,,,,
+Burglary - Hot Prowl,Supervision Term,0.0,text,9,                ,181,,,,,,,
+Burglary - Hot Prowl,Program Term,0.8720626631853786,Decimal number,3,,,362387860.1190476,0.0,0.0,0.0,0.0,17748900625.0,2535533375.768227
 Burglary - Hot Prowl,Forfeiture,0.0,text,1,                ,383,,,,,,,
 Burglary - Hot Prowl,Outcome Description,0.0,text,6,Guilty Plea        ,225,,,,,,,
+Burglary - Hot Prowl,dismissed,0.0,,2,False,336,,,,,,,
 Burglary - Other,index,0.0,Whole Number,1026,,,14470.46978557505,68.0,5920.5,13919.0,23127.75,30559.0,9459.609445326514
 Burglary - Other,Incident Datetime,0.0,text,634,2018/02/12 03:22:00 AM,10,,,,,,,
 Burglary - Other,Incident Date,0.0,text,474,2018/11/10,15,,,,,,,
@@ -383,12 +388,13 @@ Burglary - Other,Outcome Sub-Type,0.0,text,10,NEG                 ,535,,,,,,,
 Burglary - Other,Outcome Sub-Type Description,0.0,text,10,Negotiated                  ,535,,,,,,,
 Burglary - Other,Dispo Case Type,0.0,text,2,Felony         ,713,,,,,,,
 Burglary - Other,Sentence Type,0.0,text,9,                              ,474,,,,,,,
-Burglary - Other,SP Term,0.9093567251461988,Decimal number,10,,,1149.9462365591398,0.0,486.6666666666667,1095.0,1581.6666666666667,3041.6666666666665,838.8205016775612
-Burglary - Other,CJ Term,0.571150097465887,Decimal number,69,,,92.66212121212122,1.0,16.0,45.0,120.0,730.0,114.19780574311883
-Burglary - Other,Supervision Term,0.0,text,6,                ,634,,,,,,,
-Burglary - Other,Program Term,0.9541910331384016,Decimal number,3,,,295.1063829787234,182.5,182.5,365.0,365.0,365.0,87.63298504026625
+Burglary - Other,SP Term,0.0,text,10,       ,843,,,,,,,
+Burglary - Other,CJ Term,0.0,text,65,       ,494,,,,,,,
+Burglary - Other,Supervision Term,0.0,text,7,                ,542,,,,,,,
+Burglary - Other,Program Term,0.9083820662768031,Decimal number,2,,,15734840.979609929,0.0,0.0,0.0,0.0,739537526.0416666,107291107.0734947
 Burglary - Other,Forfeiture,0.0,text,1,                ,1026,,,,,,,
 Burglary - Other,Outcome Description,0.0,text,6,Guilty Plea        ,585,,,,,,,
+Burglary - Other,dismissed,0.0,,2,False,934,,,,,,,
 Burglary - Residential,index,0.0,Whole Number,822,,,16092.111922141119,88.0,7495.25,16826.5,23370.0,30535.0,9151.591737890838
 Burglary - Residential,Incident Datetime,0.0,text,456,2019/07/07 02:04:00 PM,14,,,,,,,
 Burglary - Residential,Incident Date,0.0,text,368,2019/07/19,20,,,,,,,
@@ -448,12 +454,13 @@ Burglary - Residential,Outcome Sub-Type,0.0,text,9,NEG                 ,487,,,,,
 Burglary - Residential,Outcome Sub-Type Description,0.0,text,9,Negotiated                  ,487,,,,,,,
 Burglary - Residential,Dispo Case Type,0.0,text,2,Felony         ,673,,,,,,,
 Burglary - Residential,Sentence Type,0.0,text,8,                              ,339,,,,,,,
-Burglary - Residential,SP Term,0.8710462287104623,Decimal number,14,,,1149.4811320754718,0.0,730.0,1095.0,1460.0,2920.0,695.2695554006848
-Burglary - Residential,CJ Term,0.559610705596107,Decimal number,66,,,315.4696309675591,0.0,28.0,80.0,182.5,34310.0,2540.4328197358263
-Burglary - Residential,Supervision Term,0.0,text,8,                ,472,,,,,,,
-Burglary - Residential,Program Term,0.9221411192214112,Decimal number,7,,,358.34635416666663,0.0,60.833333333333336,365.0,365.0,1095.0,326.04591037816687
+Burglary - Residential,SP Term,0.0,text,14,       ,630,,,,,,,
+Burglary - Residential,CJ Term,0.0,text,63,       ,374,,,,,,,
+Burglary - Residential,Supervision Term,0.0,text,8,                ,386,,,,,,,
+Burglary - Residential,Program Term,0.8746958637469586,Decimal number,6,,,1036552477.6496764,0.0,0.0,0.0,0.0,17748900625.0,4176844324.5950356
 Burglary - Residential,Forfeiture,0.0,text,1,                ,822,,,,,,,
 Burglary - Residential,Outcome Description,0.0,text,6,Guilty Plea        ,491,,,,,,,
+Burglary - Residential,dismissed,0.0,,2,False,736,,,,,,,
 Case Closure,index,0.0,Whole Number,167,,,16283.461077844311,111.0,7963.0,17320.0,24974.5,30247.0,9782.178448678453
 Case Closure,Incident Datetime,0.0,text,124,2018/07/02 09:00:00 AM,8,,,,,,,
 Case Closure,Incident Date,0.0,text,115,2018/07/02,8,,,,,,,
@@ -513,12 +520,13 @@ Case Closure,Outcome Sub-Type,0.0,text,9,                    ,76,,,,,,,
 Case Closure,Outcome Sub-Type Description,0.0,text,9,                            ,76,,,,,,,
 Case Closure,Dispo Case Type,0.0,text,2,Felony         ,122,,,,,,,
 Case Closure,Sentence Type,0.0,text,7,                              ,97,,,,,,,
-Case Closure,SP Term,0.9161676646706587,Decimal number,5,,,1538.2142857142858,730.0,1095.0,1095.0,1460.0,4380.0,1091.9876146502077
-Case Closure,CJ Term,0.7604790419161677,Decimal number,26,,,112.3375,6.0,42.5,70.5,180.0,365.0,104.4556946625501
-Case Closure,Supervision Term,0.0,text,4,                ,125,,,,,,,
-Case Closure,Program Term,0.9580838323353293,Decimal number,2,,,286.7857142857143,182.5,182.5,365.0,365.0,365.0,97.5503532980349
+Case Closure,SP Term,0.0,text,7,       ,128,,,,,,,
+Case Closure,CJ Term,0.0,text,27,       ,102,,,,,,,
+Case Closure,Supervision Term,0.0,text,5,                ,100,,,,,,,
+Case Closure,Program Term,0.8383233532934131,Decimal number,2,,,1314733379.6296296,0.0,0.0,0.0,0.0,17748900625.0,4736831148.585345
 Case Closure,Forfeiture,0.0,text,1,                ,167,,,,,,,
 Case Closure,Outcome Description,0.0,text,4,                   ,69,,,,,,,
+Case Closure,dismissed,0.0,,2,False,142,,,,,,,
 Courtesy Report,index,0.0,Whole Number,5,,,21882.2,15070.0,20396.0,22697.0,24491.0,26757.0,4467.8929821561305
 Courtesy Report,Incident Datetime,0.0,text,5,2019/10/18 02:16:00 PM,1,,,,,,,
 Courtesy Report,Incident Date,0.0,text,5,2019/10/18,1,,,,,,,
@@ -578,12 +586,13 @@ Courtesy Report,Outcome Sub-Type,0.0,text,4,DFI                 ,2,,,,,,,
 Courtesy Report,Outcome Sub-Type Description,0.0,text,4,Dismissal - Federal Indictme,2,,,,,,,
 Courtesy Report,Dispo Case Type,0.0,text,1,Felony         ,5,,,,,,,
 Courtesy Report,Sentence Type,0.0,text,2,                              ,4,,,,,,,
-Courtesy Report,SP Term,1.0,Decimal number,0,,,,,,,,,
-Courtesy Report,CJ Term,0.8,Decimal number,1,,,273.75,273.75,273.75,273.75,273.75,273.75,
-Courtesy Report,Supervision Term,0.0,text,2,                ,4,,,,,,,
-Courtesy Report,Program Term,1.0,Decimal number,0,,,,,,,,,
+Courtesy Report,SP Term,0.0,text,2,0.0,3.0,,,,,,,
+Courtesy Report,CJ Term,0.0,text,3,0.0,3.0,,,,,,,
+Courtesy Report,Supervision Term,0.0,text,3,0.0,3.0,,,,,,,
+Courtesy Report,Program Term,0.4,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Courtesy Report,Forfeiture,0.0,text,1,                ,5,,,,,,,
 Courtesy Report,Outcome Description,0.0,text,3,Dismissal          ,3,,,,,,,
+Courtesy Report,dismissed,0.0,,2,True,3,,,,,,,
 Disorderly Conduct,index,0.0,Whole Number,48,,,14786.708333333334,1260.0,7775.75,15079.0,21522.25,28237.0,7848.349022642002
 Disorderly Conduct,Incident Datetime,0.0,text,37,2019/12/13 11:20:00 AM,4,,,,,,,
 Disorderly Conduct,Incident Date,0.0,text,36,2019/12/13,4,,,,,,,
@@ -643,12 +652,13 @@ Disorderly Conduct,Outcome Sub-Type,0.0,text,6,                    ,17,,,,,,,
 Disorderly Conduct,Outcome Sub-Type Description,0.0,text,6,                            ,17,,,,,,,
 Disorderly Conduct,Dispo Case Type,0.0,text,2,Misdemeanor    ,40,,,,,,,
 Disorderly Conduct,Sentence Type,0.0,text,5,                              ,33,,,,,,,
-Disorderly Conduct,SP Term,0.9791666666666666,Decimal number,1,,,1095.0,1095.0,1095.0,1095.0,1095.0,1095.0,
-Disorderly Conduct,CJ Term,0.6875,Decimal number,10,,,91.47777777777779,3.0,15.0,60.0,182.5,304.1666666666667,96.15170442873212
-Disorderly Conduct,Supervision Term,0.0,text,4,                ,36,,,,,,,
-Disorderly Conduct,Program Term,1.0,Decimal number,0,,,,,,,,,
+Disorderly Conduct,SP Term,0.0,text,3,       ,31,,,,,,,
+Disorderly Conduct,CJ Term,0.0,text,12,       ,17,,,,,,,
+Disorderly Conduct,Supervision Term,0.0,text,5,                ,20,,,,,,,
+Disorderly Conduct,Program Term,0.6666666666666666,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Disorderly Conduct,Forfeiture,0.0,text,1,                ,48,,,,,,,
 Disorderly Conduct,Outcome Description,0.0,text,4,Dismissal          ,17,,,,,,,
+Disorderly Conduct,dismissed,0.0,,2,False,32,,,,,,,
 Drug Violation,index,0.0,Whole Number,4315,,,16419.48736964079,19.0,8982.5,16300.0,24082.5,30682.0,8675.601951970599
 Drug Violation,Incident Datetime,0.0,text,1689,2018/04/12 12:30:00 PM,18,,,,,,,
 Drug Violation,Incident Date,0.0,text,786,2018/04/12,41,,,,,,,
@@ -708,12 +718,13 @@ Drug Violation,Outcome Sub-Type,0.0,text,13,NEG                 ,2025,,,,,,,
 Drug Violation,Outcome Sub-Type Description,0.0,text,13,Negotiated                  ,2025,,,,,,,
 Drug Violation,Dispo Case Type,0.0,text,3,Felony         ,2823,,,,,,,
 Drug Violation,Sentence Type,0.0,text,11,                              ,2314,,,,,,,
-Drug Violation,SP Term,0.9728852838933951,Decimal number,9,,,1018.5683760683761,0.0,730.0,1095.0,1460.0,2311.6666666666665,479.67793621082274
-Drug Violation,CJ Term,0.6254924681344148,Decimal number,120,,,61.77547442244226,0.0,3.0,17.0,68.0,2281.25,135.8856915207687
-Drug Violation,Supervision Term,0.0,text,11,                ,2776,,,,,,,
-Drug Violation,Program Term,0.9830822711471611,Decimal number,15,,,298.0041271513874,0.0,60.833333333333336,182.5,365.0,1095.0,341.3266811209516
+Drug Violation,SP Term,0.0,text,10,       ,3201,,,,,,,
+Drug Violation,CJ Term,0.0,text,112,       ,1716,,,,,,,
+Drug Violation,Supervision Term,0.0,text,11,                ,1782,,,,,,,
+Drug Violation,Program Term,0.7675550405561993,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Drug Violation,Forfeiture,0.0,text,19,                ,4257,,,,,,,
 Drug Violation,Outcome Description,0.0,text,8,Guilty Plea        ,2062,,,,,,,
+Drug Violation,dismissed,0.0,,2,False,3317,,,,,,,
 Drunkenness,index,0.0,Whole Number,41,,,12671.853658536585,739.0,6866.0,10739.0,17526.0,27651.0,7358.977566758087
 Drunkenness,Incident Datetime,0.0,text,32,2020/09/28 09:30:00 AM,8,,,,,,,
 Drunkenness,Incident Date,0.0,text,32,2020/09/28,8,,,,,,,
@@ -773,12 +784,13 @@ Drunkenness,Outcome Sub-Type,0.0,text,7,DAD                 ,12,,,,,,,
 Drunkenness,Outcome Sub-Type Description,0.0,text,7,DA Dismissal                ,12,,,,,,,
 Drunkenness,Dispo Case Type,0.0,text,2,Misdemeanor    ,35,,,,,,,
 Drunkenness,Sentence Type,0.0,text,3,                              ,29,,,,,,,
-Drunkenness,SP Term,1.0,Decimal number,0,,,,,,,,,
-Drunkenness,CJ Term,0.926829268292683,Decimal number,2,,,2.6666666666666665,2.0,2.5,3.0,3.0,3.0,0.5773502691896258
-Drunkenness,Supervision Term,0.0,text,2,                ,30,,,,,,,
-Drunkenness,Program Term,0.9512195121951219,Decimal number,2,,,76.04166666666667,60.833333333333336,68.4375,76.04166666666667,83.64583333333333,91.25,21.507831261090818
+Drunkenness,SP Term,0.0,text,2,       ,27,,,,,,,
+Drunkenness,CJ Term,0.0,text,4,       ,24,,,,,,,
+Drunkenness,Supervision Term,0.0,text,3,                ,16,,,,,,,
+Drunkenness,Program Term,0.6585365853658537,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Drunkenness,Forfeiture,0.0,text,1,                ,41,,,,,,,
 Drunkenness,Outcome Description,0.0,text,6,Dismissal          ,12,,,,,,,
+Drunkenness,dismissed,0.0,,2,False,27,,,,,,,
 Embezzlement,index,0.0,Whole Number,15,,,13613.2,371.0,4081.5,11464.0,21778.0,25878.0,9815.411862401468
 Embezzlement,Incident Datetime,0.0,text,14,2018/11/09 03:00:00 PM,2,,,,,,,
 Embezzlement,Incident Date,0.0,text,14,2018/11/09,2,,,,,,,
@@ -838,12 +850,13 @@ Embezzlement,Outcome Sub-Type,0.0,text,5,NEG                 ,5,,,,,,,
 Embezzlement,Outcome Sub-Type Description,0.0,text,5,Negotiated                  ,5,,,,,,,
 Embezzlement,Dispo Case Type,0.0,text,2,Felony         ,9,,,,,,,
 Embezzlement,Sentence Type,0.0,text,4,                              ,9,,,,,,,
-Embezzlement,SP Term,0.9333333333333333,Decimal number,1,,,486.6666666666667,486.6666666666667,486.6666666666667,486.6666666666667,486.6666666666667,486.6666666666667,
-Embezzlement,CJ Term,0.8666666666666667,Decimal number,2,,,1.5,1.0,1.25,1.5,1.75,2.0,0.7071067811865476
-Embezzlement,Supervision Term,0.0,text,4,                ,12,,,,,,,
-Embezzlement,Program Term,1.0,Decimal number,0,,,,,,,,,
+Embezzlement,SP Term,0.0,text,3,       ,8,,,,,,,
+Embezzlement,CJ Term,0.0,text,4,       ,7,,,,,,,
+Embezzlement,Supervision Term,0.0,text,5,                ,6,,,,,,,
+Embezzlement,Program Term,0.6,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Embezzlement,Forfeiture,0.0,text,1,                ,15,,,,,,,
 Embezzlement,Outcome Description,0.0,text,4,Dismissal          ,6,,,,,,,
+Embezzlement,dismissed,0.0,,2,False,9,,,,,,,
 Extortion-Blackmail,index,0.0,Whole Number,4,,,10033.0,635.0,639.5,8594.5,17988.0,22308.0,11100.344108780291
 Extortion-Blackmail,Incident Datetime,0.0,text,3,2019/12/05 08:40:00 PM,2,,,,,,,
 Extortion-Blackmail,Incident Date,0.0,text,3,2019/12/05,2,,,,,,,
@@ -903,12 +916,13 @@ Extortion-Blackmail,Outcome Sub-Type,0.0,text,1,NEG                 ,4,,,,,,,
 Extortion-Blackmail,Outcome Sub-Type Description,0.0,text,1,Negotiated                  ,4,,,,,,,
 Extortion-Blackmail,Dispo Case Type,0.0,text,2,Felony         ,3,,,,,,,
 Extortion-Blackmail,Sentence Type,0.0,text,2,ISS Formal Probation/County Ja,2,,,,,,,
-Extortion-Blackmail,SP Term,1.0,Decimal number,0,,,,,,,,,
-Extortion-Blackmail,CJ Term,0.25,Decimal number,3,,,224.05555555555557,3.0,153.58333333333334,304.1666666666667,334.58333333333337,365.0,193.84102401863387
+Extortion-Blackmail,SP Term,0.0,text,1,       ,4,,,,,,,
+Extortion-Blackmail,CJ Term,0.0,text,4,1.0,1.0,,,,,,,
 Extortion-Blackmail,Supervision Term,0.0,text,3,                ,2,,,,,,,
 Extortion-Blackmail,Program Term,1.0,Decimal number,0,,,,,,,,,
 Extortion-Blackmail,Forfeiture,0.0,text,1,                ,4,,,,,,,
 Extortion-Blackmail,Outcome Description,0.0,text,1,Guilty Plea        ,4,,,,,,,
+Extortion-Blackmail,dismissed,0.0,,1,False,4,,,,,,,
 Fire Report,index,0.0,Whole Number,6,,,11946.166666666666,412.0,4674.0,6204.5,20066.5,30005.0,12102.03162145376
 Fire Report,Incident Datetime,0.0,text,5,2018/02/19 01:14:00 AM,2,,,,,,,
 Fire Report,Incident Date,0.0,text,5,2018/02/19,2,,,,,,,
@@ -968,12 +982,13 @@ Fire Report,Outcome Sub-Type,0.0,text,2,                    ,3,,,,,,,
 Fire Report,Outcome Sub-Type Description,0.0,text,2,                            ,3,,,,,,,
 Fire Report,Dispo Case Type,0.0,text,2,Felony         ,4,,,,,,,
 Fire Report,Sentence Type,0.0,text,3,                              ,3,,,,,,,
-Fire Report,SP Term,0.6666666666666666,Decimal number,1,,,1338.3333333333333,1338.3333333333333,1338.3333333333333,1338.3333333333333,1338.3333333333333,1338.3333333333333,0.0
-Fire Report,CJ Term,0.8333333333333334,Decimal number,1,,,5.0,5.0,5.0,5.0,5.0,5.0,
+Fire Report,SP Term,0.0,text,2,       ,4,,,,,,,
+Fire Report,CJ Term,0.0,text,2,       ,5,,,,,,,
 Fire Report,Supervision Term,0.0,text,1,                ,6,,,,,,,
 Fire Report,Program Term,1.0,Decimal number,0,,,,,,,,,
 Fire Report,Forfeiture,0.0,text,1,                ,6,,,,,,,
 Fire Report,Outcome Description,0.0,text,2,                   ,3,,,,,,,
+Fire Report,dismissed,0.0,,1,False,6,,,,,,,
 Forgery And Counterfeiting,index,0.0,Whole Number,94,,,14676.191489361701,158.0,6236.5,13767.5,22554.5,30463.0,9119.732351143093
 Forgery And Counterfeiting,Incident Datetime,0.0,text,60,2018/10/22 10:37:00 PM,4,,,,,,,
 Forgery And Counterfeiting,Incident Date,0.0,text,57,2018/05/23,5,,,,,,,
@@ -1033,12 +1048,13 @@ Forgery And Counterfeiting,Outcome Sub-Type,0.0,text,7,NEG                 ,61,,
 Forgery And Counterfeiting,Outcome Sub-Type Description,0.0,text,7,Negotiated                  ,61,,,,,,,
 Forgery And Counterfeiting,Dispo Case Type,0.0,text,2,Felony         ,56,,,,,,,
 Forgery And Counterfeiting,Sentence Type,0.0,text,6,                              ,35,,,,,,,
-Forgery And Counterfeiting,SP Term,0.925531914893617,Decimal number,3,,,556.1904761904761,243.33333333333334,486.6666666666667,486.6666666666667,730.0,730.0,183.9427101978239
-Forgery And Counterfeiting,CJ Term,0.5531914893617021,Decimal number,20,,,54.714285714285715,1.0,4.0,16.0,64.0,365.0,88.61737034874217
-Forgery And Counterfeiting,Supervision Term,0.0,text,6,                ,51,,,,,,,
-Forgery And Counterfeiting,Program Term,0.9893617021276596,Decimal number,1,,,182.5,182.5,182.5,182.5,182.5,182.5,
+Forgery And Counterfeiting,SP Term,0.0,text,6,       ,76,,,,,,,
+Forgery And Counterfeiting,CJ Term,0.0,text,21,       ,41,,,,,,,
+Forgery And Counterfeiting,Supervision Term,0.0,text,7,                ,40,,,,,,,
+Forgery And Counterfeiting,Program Term,0.8829787234042553,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Forgery And Counterfeiting,Forfeiture,0.0,text,1,                ,94,,,,,,,
 Forgery And Counterfeiting,Outcome Description,0.0,text,4,Guilty Plea        ,62,,,,,,,
+Forgery And Counterfeiting,dismissed,0.0,,2,False,83,,,,,,,
 Fraud,index,0.0,Whole Number,226,,,13338.526548672566,1099.0,4961.25,13444.0,19393.75,30630.0,8653.588878183744
 Fraud,Incident Datetime,0.0,text,151,2018/05/25 01:00:00 PM,12,,,,,,,
 Fraud,Incident Date,0.0,text,140,2018/05/25,12,,,,,,,
@@ -1098,12 +1114,13 @@ Fraud,Outcome Sub-Type,0.0,text,9,NEG                 ,124,,,,,,,
 Fraud,Outcome Sub-Type Description,0.0,text,9,Negotiated                  ,124,,,,,,,
 Fraud,Dispo Case Type,0.0,text,2,Felony         ,115,,,,,,,
 Fraud,Sentence Type,0.0,text,7,                              ,99,,,,,,,
-Fraud,SP Term,0.9424778761061947,Decimal number,3,,,973.3333333333334,486.6666666666667,1095.0,1095.0,1095.0,1095.0,238.2099525239898
-Fraud,CJ Term,0.5929203539823009,Decimal number,38,,,93.56521739130434,1.0,5.75,39.5,121.16666666666667,608.3333333333334,125.19777018157383
-Fraud,Supervision Term,0.0,text,7,                ,137,,,,,,,
-Fraud,Program Term,0.9513274336283186,Decimal number,3,,,243.1818181818182,60.0,182.5,182.5,365.0,365.0,124.91542593436424
+Fraud,SP Term,0.0,text,5,       ,178,,,,,,,
+Fraud,CJ Term,0.0,text,35,       ,101,,,,,,,
+Fraud,Supervision Term,0.0,text,8,                ,104,,,,,,,
+Fraud,Program Term,0.8451327433628318,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Fraud,Forfeiture,0.0,text,1,                ,226,,,,,,,
 Fraud,Outcome Description,0.0,text,6,Guilty Plea        ,125,,,,,,,
+Fraud,dismissed,0.0,,2,False,191,,,,,,,
 Gambling,index,0.0,Whole Number,5,,,5762.0,2110.0,2112.0,2114.0,2116.0,20358.0,8159.412356291353
 Gambling,Incident Datetime,0.0,text,2,2018/02/21 11:58:00 AM,4,,,,,,,
 Gambling,Incident Date,0.0,text,2,2018/02/21,4,,,,,,,
@@ -1163,12 +1180,13 @@ Gambling,Outcome Sub-Type,0.0,text,2,NEG                 ,3,,,,,,,
 Gambling,Outcome Sub-Type Description,0.0,text,2,Negotiated                  ,3,,,,,,,
 Gambling,Dispo Case Type,0.0,text,1,Misdemeanor    ,5,,,,,,,
 Gambling,Sentence Type,0.0,text,3,                              ,2,,,,,,,
-Gambling,SP Term,1.0,Decimal number,0,,,,,,,,,
-Gambling,CJ Term,0.4,Decimal number,2,,,3.3333333333333335,2.0,2.0,2.0,4.0,6.0,2.3094010767585034
+Gambling,SP Term,0.0,text,1,       ,5,,,,,,,
+Gambling,CJ Term,0.0,text,3,       ,2,,,,,,,
 Gambling,Supervision Term,0.0,text,3,                ,2,,,,,,,
 Gambling,Program Term,1.0,Decimal number,0,,,,,,,,,
 Gambling,Forfeiture,0.0,text,1,                ,5,,,,,,,
 Gambling,Outcome Description,0.0,text,2,Guilty Plea        ,3,,,,,,,
+Gambling,dismissed,0.0,,1,False,5,,,,,,,
 Homicide,index,0.0,Whole Number,1,,,4547.0,4547.0,4547.0,4547.0,4547.0,4547.0,
 Homicide,Incident Datetime,0.0,text,1,2018/06/10 12:21:00 PM,1,,,,,,,
 Homicide,Incident Date,0.0,text,1,2018/06/10,1,,,,,,,
@@ -1228,12 +1246,13 @@ Homicide,Outcome Sub-Type,0.0,text,1,NEG                 ,1,,,,,,,
 Homicide,Outcome Sub-Type Description,0.0,text,1,Negotiated                  ,1,,,,,,,
 Homicide,Dispo Case Type,0.0,text,1,Felony         ,1,,,,,,,
 Homicide,Sentence Type,0.0,text,1,ESS Formal Probation/County Ja,1,,,,,,,
-Homicide,SP Term,0.0,Decimal number,1,,,4015.0,4015.0,4015.0,4015.0,4015.0,4015.0,
-Homicide,CJ Term,0.0,Decimal number,1,,,365.0,365.0,365.0,365.0,365.0,365.0,
+Homicide,SP Term,0.0,text,1,11.0,1.0,,,,,,,
+Homicide,CJ Term,0.0,text,1,1.0,1.0,,,,,,,
 Homicide,Supervision Term,0.0,text,1,                ,1,,,,,,,
 Homicide,Program Term,1.0,Decimal number,0,,,,,,,,,
 Homicide,Forfeiture,0.0,text,1,                ,1,,,,,,,
 Homicide,Outcome Description,0.0,text,1,Guilty Plea        ,1,,,,,,,
+Homicide,dismissed,0.0,,1,False,1,,,,,,,
 "Human Trafficking, Commercial Sex Acts",index,0.0,Whole Number,2,,,18693.5,14246.0,16469.75,18693.5,20917.25,23141.0,6289.71481865434
 "Human Trafficking, Commercial Sex Acts",Incident Datetime,0.0,text,2,2018/11/15 10:04:00 AM,1,,,,,,,
 "Human Trafficking, Commercial Sex Acts",Incident Date,0.0,text,2,2018/11/15,1,,,,,,,
@@ -1293,12 +1312,13 @@ Homicide,Outcome Description,0.0,text,1,Guilty Plea        ,1,,,,,,,
 "Human Trafficking, Commercial Sex Acts",Outcome Sub-Type Description,0.0,text,2,DA Dismissal                ,1,,,,,,,
 "Human Trafficking, Commercial Sex Acts",Dispo Case Type,0.0,text,2,Misdemeanor    ,1,,,,,,,
 "Human Trafficking, Commercial Sex Acts",Sentence Type,0.0,text,1,                              ,2,,,,,,,
-"Human Trafficking, Commercial Sex Acts",SP Term,1.0,Decimal number,0,,,,,,,,,
-"Human Trafficking, Commercial Sex Acts",CJ Term,1.0,Decimal number,0,,,,,,,,,
-"Human Trafficking, Commercial Sex Acts",Supervision Term,0.0,text,1,                ,2,,,,,,,
-"Human Trafficking, Commercial Sex Acts",Program Term,1.0,Decimal number,0,,,,,,,,,
+"Human Trafficking, Commercial Sex Acts",SP Term,0.0,text,2,0.0,1.0,,,,,,,
+"Human Trafficking, Commercial Sex Acts",CJ Term,0.0,text,2,0.0,1.0,,,,,,,
+"Human Trafficking, Commercial Sex Acts",Supervision Term,0.0,text,2,0.0,1.0,,,,,,,
+"Human Trafficking, Commercial Sex Acts",Program Term,0.5,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,
 "Human Trafficking, Commercial Sex Acts",Forfeiture,0.0,text,1,                ,2,,,,,,,
 "Human Trafficking, Commercial Sex Acts",Outcome Description,0.0,text,2,Dismissal          ,1,,,,,,,
+"Human Trafficking, Commercial Sex Acts",dismissed,0.0,,2,True,1,,,,,,,
 Intimidation,index,0.0,Whole Number,687,,,15078.839883551675,0.0,7660.0,14782.0,22564.0,30678.0,8559.90332500952
 Intimidation,Incident Datetime,0.0,text,524,2018/05/18 09:05:00 AM,8,,,,,,,
 Intimidation,Incident Date,0.0,text,388,2018/05/18,11,,,,,,,
@@ -1358,12 +1378,13 @@ Intimidation,Outcome Sub-Type,0.0,text,10,NEG                 ,327,,,,,,,
 Intimidation,Outcome Sub-Type Description,0.0,text,10,Negotiated                  ,327,,,,,,,
 Intimidation,Dispo Case Type,0.0,text,2,Misdemeanor    ,413,,,,,,,
 Intimidation,Sentence Type,0.0,text,9,                              ,341,,,,,,,
-Intimidation,SP Term,0.9694323144104804,Decimal number,7,,,1239.8412698412699,365.0,730.0,1095.0,1460.0,2920.0,736.6804117801214
-Intimidation,CJ Term,0.5691411935953421,Decimal number,85,,,78.20636261261262,1.0,16.0,33.0,91.25,403.0,102.50246240146127
-Intimidation,Supervision Term,0.0,text,8,                ,401,,,,,,,
-Intimidation,Program Term,0.9184861717612809,Decimal number,12,,,315.53365384615387,0.4166666666666667,182.5,365.0,365.0,1095.0,200.70346940181057
+Intimidation,SP Term,0.0,text,9,       ,548,,,,,,,
+Intimidation,CJ Term,0.0,text,82,       ,275,,,,,,,
+Intimidation,Supervision Term,0.0,text,9,                ,285,,,,,,,
+Intimidation,Program Term,0.8282387190684134,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Intimidation,Forfeiture,0.0,text,1,                ,687,,,,,,,
 Intimidation,Outcome Description,0.0,text,8,Guilty Plea        ,357,,,,,,,
+Intimidation,dismissed,0.0,,2,False,569,,,,,,,
 Kidnapping,index,0.0,Whole Number,46,,,13233.891304347826,610.0,3506.75,13438.5,22002.75,30261.0,9521.170873907522
 Kidnapping,Incident Datetime,0.0,text,38,2018/02/05 07:00:00 PM,3,,,,,,,
 Kidnapping,Incident Date,0.0,text,38,2018/02/05,3,,,,,,,
@@ -1423,12 +1444,13 @@ Kidnapping,Outcome Sub-Type,0.0,text,3,NEG                 ,26,,,,,,,
 Kidnapping,Outcome Sub-Type Description,0.0,text,3,Negotiated                  ,26,,,,,,,
 Kidnapping,Dispo Case Type,0.0,text,2,Felony         ,34,,,,,,,
 Kidnapping,Sentence Type,0.0,text,6,                              ,24,,,,,,,
-Kidnapping,SP Term,0.9130434782608695,Decimal number,3,,,2463.75,1460.0,1733.75,2555.0,3285.0,3285.0,959.933808481953
-Kidnapping,CJ Term,0.5434782608695652,Decimal number,12,,,183.0952380952381,2.0,53.0,180.0,273.75,365.0,132.3578831282462
-Kidnapping,Supervision Term,0.0,text,4,                ,27,,,,,,,
-Kidnapping,Program Term,0.7608695652173914,Decimal number,3,,,398.29545454545456,1.25,365.0,365.0,365.0,730.0,196.6137335672987
+Kidnapping,SP Term,0.0,text,5,       ,39,,,,,,,
+Kidnapping,CJ Term,0.0,text,13,       ,22,,,,,,,
+Kidnapping,Supervision Term,0.0,text,5,                ,24,,,,,,,
+Kidnapping,Program Term,0.8913043478260869,Decimal number,2,,,1183260041.6666667,0.0,0.0,0.0,2958150104.166667,2958150104.166667,1620245540.5383403
 Kidnapping,Forfeiture,0.0,text,1,                ,46,,,,,,,
 Kidnapping,Outcome Description,0.0,text,6,Guilty Plea        ,28,,,,,,,
+Kidnapping,dismissed,0.0,,2,False,43,,,,,,,
 Larceny - Auto Parts,index,0.0,Whole Number,13,,,22476.53846153846,9880.0,22044.0,23368.0,25596.0,25603.0,4098.353665709045
 Larceny - Auto Parts,Incident Datetime,0.0,text,5,2019/12/03 04:46:00 AM,4,,,,,,,
 Larceny - Auto Parts,Incident Date,0.0,text,5,2019/12/03,4,,,,,,,
@@ -1488,12 +1510,13 @@ Larceny - Auto Parts,Outcome Sub-Type,0.0,text,2,NEG                 ,8,,,,,,,
 Larceny - Auto Parts,Outcome Sub-Type Description,0.0,text,2,Negotiated                  ,8,,,,,,,
 Larceny - Auto Parts,Dispo Case Type,0.0,text,2,Misdemeanor    ,11,,,,,,,
 Larceny - Auto Parts,Sentence Type,0.0,text,3,                              ,5,,,,,,,
-Larceny - Auto Parts,SP Term,1.0,Decimal number,0,,,,,,,,,
-Larceny - Auto Parts,CJ Term,0.5384615384615384,Decimal number,4,,,4.833333333333333,1.0,3.5,5.0,5.0,10.0,2.9944392908634274
+Larceny - Auto Parts,SP Term,0.0,text,1,       ,13,,,,,,,
+Larceny - Auto Parts,CJ Term,0.0,text,5,       ,7,,,,,,,
 Larceny - Auto Parts,Supervision Term,0.0,text,2,                ,9,,,,,,,
 Larceny - Auto Parts,Program Term,1.0,Decimal number,0,,,,,,,,,
 Larceny - Auto Parts,Forfeiture,0.0,text,1,                ,13,,,,,,,
 Larceny - Auto Parts,Outcome Description,0.0,text,2,Guilty Plea        ,9,,,,,,,
+Larceny - Auto Parts,dismissed,0.0,,1,False,13,,,,,,,
 Larceny - From Vehicle,index,0.0,Whole Number,378,,,14789.915343915343,274.0,5661.25,14568.0,22228.0,30698.0,9182.058818225652
 Larceny - From Vehicle,Incident Datetime,0.0,text,252,2018/04/11 02:50:00 PM,7,,,,,,,
 Larceny - From Vehicle,Incident Date,0.0,text,209,2020/08/14,8,,,,,,,
@@ -1553,12 +1576,13 @@ Larceny - From Vehicle,Outcome Sub-Type,0.0,text,9,NEG                 ,158,,,,,
 Larceny - From Vehicle,Outcome Sub-Type Description,0.0,text,9,Negotiated                  ,158,,,,,,,
 Larceny - From Vehicle,Dispo Case Type,0.0,text,2,Felony         ,238,,,,,,,
 Larceny - From Vehicle,Sentence Type,0.0,text,9,                              ,190,,,,,,,
-Larceny - From Vehicle,SP Term,0.9444444444444444,Decimal number,8,,,1103.6904761904761,0.0,730.0,1095.0,1095.0,2798.3333333333335,657.5308701788041
-Larceny - From Vehicle,CJ Term,0.5714285714285714,Decimal number,48,,,108.74485596707818,0.0,14.25,44.5,180.0,1095.0,148.73006117893013
-Larceny - From Vehicle,Supervision Term,0.0,text,9,                ,227,,,,,,,
-Larceny - From Vehicle,Program Term,0.9920634920634921,Decimal number,3,,,395.4166666666667,91.25,228.125,365.0,547.5,730.0,320.4594683159375
+Larceny - From Vehicle,SP Term,0.0,text,10,       ,299,,,,,,,
+Larceny - From Vehicle,CJ Term,0.0,text,46,       ,159,,,,,,,
+Larceny - From Vehicle,Supervision Term,0.0,text,10,                ,170,,,,,,,
+Larceny - From Vehicle,Program Term,0.8412698412698413,Decimal number,3,,,135121.60590277778,0.0,0.0,0.0,0.0,8104520.833333334,1046283.1286984758
 Larceny - From Vehicle,Forfeiture,0.0,text,1,                ,378,,,,,,,
 Larceny - From Vehicle,Outcome Description,0.0,text,6,Guilty Plea        ,185,,,,,,,
+Larceny - From Vehicle,dismissed,0.0,,2,False,320,,,,,,,
 Larceny Theft - Bicycle,index,0.0,Whole Number,29,,,16951.241379310344,2674.0,8199.0,17172.0,23486.0,29820.0,9029.341075686738
 Larceny Theft - Bicycle,Incident Datetime,0.0,text,25,2020/07/20 02:11:00 PM,2,,,,,,,
 Larceny Theft - Bicycle,Incident Date,0.0,text,25,2020/07/20,2,,,,,,,
@@ -1618,12 +1642,13 @@ Larceny Theft - Bicycle,Outcome Sub-Type,0.0,text,3,                    ,14,,,,,
 Larceny Theft - Bicycle,Outcome Sub-Type Description,0.0,text,3,                            ,14,,,,,,,
 Larceny Theft - Bicycle,Dispo Case Type,0.0,text,2,Misdemeanor    ,18,,,,,,,
 Larceny Theft - Bicycle,Sentence Type,0.0,text,5,                              ,15,,,,,,,
-Larceny Theft - Bicycle,SP Term,1.0,Decimal number,0,,,,,,,,,
-Larceny Theft - Bicycle,CJ Term,0.5172413793103449,Decimal number,10,,,44.410714285714285,1.0,6.75,18.0,52.75,273.75,71.93196619715751
-Larceny Theft - Bicycle,Supervision Term,0.0,text,4,                ,22,,,,,,,
-Larceny Theft - Bicycle,Program Term,0.9655172413793104,Decimal number,1,,,547.5,547.5,547.5,547.5,547.5,547.5,
+Larceny Theft - Bicycle,SP Term,0.0,text,2,       ,26,,,,,,,
+Larceny Theft - Bicycle,CJ Term,0.0,text,11,       ,12,,,,,,,
+Larceny Theft - Bicycle,Supervision Term,0.0,text,5,                ,19,,,,,,,
+Larceny Theft - Bicycle,Program Term,0.896551724137931,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Larceny Theft - Bicycle,Forfeiture,0.0,text,1,                ,29,,,,,,,
 Larceny Theft - Bicycle,Outcome Description,0.0,text,3,Guilty Plea        ,16,,,,,,,
+Larceny Theft - Bicycle,dismissed,0.0,,2,False,26,,,,,,,
 Larceny Theft - From Building,index,0.0,Whole Number,262,,,14820.5,72.0,7079.75,15461.0,22938.75,29949.0,9018.179256878597
 Larceny Theft - From Building,Incident Datetime,0.0,text,178,2019/03/11 12:00:00 AM,8,,,,,,,
 Larceny Theft - From Building,Incident Date,0.0,text,160,2019/03/11,8,,,,,,,
@@ -1683,12 +1708,13 @@ Larceny Theft - From Building,Outcome Sub-Type,0.0,text,8,NEG                 ,1
 Larceny Theft - From Building,Outcome Sub-Type Description,0.0,text,8,Negotiated                  ,146,,,,,,,
 Larceny Theft - From Building,Dispo Case Type,0.0,text,2,Misdemeanor    ,136,,,,,,,
 Larceny Theft - From Building,Sentence Type,0.0,text,9,                              ,110,,,,,,,
-Larceny Theft - From Building,SP Term,0.9656488549618321,Decimal number,5,,,1040.925925925926,0.0,973.3333333333334,1095.0,1460.0,1460.0,512.9917093162038
-Larceny Theft - From Building,CJ Term,0.4580152671755725,Decimal number,40,,,82.18603286384977,0.0,15.0,45.0,90.0,365.0,100.55133753487567
-Larceny Theft - From Building,Supervision Term,0.0,text,7,                ,139,,,,,,,
-Larceny Theft - From Building,Program Term,0.9122137404580153,Decimal number,6,,,255.89325529542927,30.416666666666668,182.5,365.0,365.0,365.0,124.37204699945141
+Larceny Theft - From Building,SP Term,0.0,text,6,       ,231,,,,,,,
+Larceny Theft - From Building,CJ Term,0.0,text,35,       ,100,,,,,,,
+Larceny Theft - From Building,Supervision Term,0.0,text,7,                ,119,,,,,,,
+Larceny Theft - From Building,Program Term,0.9122137404580153,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Larceny Theft - From Building,Forfeiture,0.0,text,1,                ,262,,,,,,,
 Larceny Theft - From Building,Outcome Description,0.0,text,4,Guilty Plea        ,161,,,,,,,
+Larceny Theft - From Building,dismissed,0.0,,2,False,239,,,,,,,
 Larceny Theft - Other,index,0.0,Whole Number,278,,,18627.607913669064,58.0,10273.75,19953.5,28049.5,30370.0,9514.249175083072
 Larceny Theft - Other,Incident Datetime,0.0,text,202,2020/06/01 02:37:00 AM,9,,,,,,,
 Larceny Theft - Other,Incident Date,0.0,text,176,2020/05/30,11,,,,,,,
@@ -1748,12 +1774,13 @@ Larceny Theft - Other,Outcome Sub-Type,0.0,text,9,NEG                 ,126,,,,,,
 Larceny Theft - Other,Outcome Sub-Type Description,0.0,text,9,Negotiated                  ,126,,,,,,,
 Larceny Theft - Other,Dispo Case Type,0.0,text,2,Felony         ,147,,,,,,,
 Larceny Theft - Other,Sentence Type,0.0,text,9,                              ,144,,,,,,,
-Larceny Theft - Other,SP Term,0.9676258992805755,Decimal number,4,,,757.0370370370371,0.0,243.33333333333334,243.33333333333334,1095.0,1825.0,719.218218400377
-Larceny Theft - Other,CJ Term,0.6223021582733813,Decimal number,44,,,121.03174603174604,1.0,12.0,30.0,180.0,1095.0,183.63033503219845
-Larceny Theft - Other,Supervision Term,0.0,text,6,                ,191,,,,,,,
-Larceny Theft - Other,Program Term,0.9532374100719424,Decimal number,4,,,294.84615384615387,0.0,365.0,365.0,365.0,365.0,140.06284075005175
+Larceny Theft - Other,SP Term,0.0,text,5,       ,218,,,,,,,
+Larceny Theft - Other,CJ Term,0.0,text,40,       ,125,,,,,,,
+Larceny Theft - Other,Supervision Term,0.0,text,7,                ,143,,,,,,,
+Larceny Theft - Other,Program Term,0.8129496402877698,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Larceny Theft - Other,Forfeiture,0.0,text,1,                ,278,,,,,,,
 Larceny Theft - Other,Outcome Description,0.0,text,5,Guilty Plea        ,130,,,,,,,
+Larceny Theft - Other,dismissed,0.0,,2,False,227,,,,,,,
 Larceny Theft - Pickpocket,index,0.0,Whole Number,4,,,15937.5,5141.0,9716.75,15598.0,21818.75,27413.0,9771.241903326994
 Larceny Theft - Pickpocket,Incident Datetime,0.0,text,4,2018/03/04 03:05:00 PM,1,,,,,,,
 Larceny Theft - Pickpocket,Incident Date,0.0,text,4,2018/03/04,1,,,,,,,
@@ -1813,12 +1840,13 @@ Larceny Theft - Pickpocket,Outcome Sub-Type,0.0,text,1,NEG                 ,4,,,
 Larceny Theft - Pickpocket,Outcome Sub-Type Description,0.0,text,1,Negotiated                  ,4,,,,,,,
 Larceny Theft - Pickpocket,Dispo Case Type,0.0,text,2,Misdemeanor    ,3,,,,,,,
 Larceny Theft - Pickpocket,Sentence Type,0.0,text,3,County Jail                   ,2,,,,,,,
-Larceny Theft - Pickpocket,SP Term,0.75,Decimal number,1,,,730.0,730.0,730.0,730.0,730.0,730.0,
-Larceny Theft - Pickpocket,CJ Term,0.25,Decimal number,3,,,88.66666666666667,3.0,4.0,5.0,131.5,258.0,146.65037788336357
+Larceny Theft - Pickpocket,SP Term,0.0,text,2,       ,3,,,,,,,
+Larceny Theft - Pickpocket,CJ Term,0.0,text,4,258.0,1.0,,,,,,,
 Larceny Theft - Pickpocket,Supervision Term,0.0,text,2,                ,3,,,,,,,
 Larceny Theft - Pickpocket,Program Term,1.0,Decimal number,0,,,,,,,,,
 Larceny Theft - Pickpocket,Forfeiture,0.0,text,1,                ,4,,,,,,,
 Larceny Theft - Pickpocket,Outcome Description,0.0,text,1,Guilty Plea        ,4,,,,,,,
+Larceny Theft - Pickpocket,dismissed,0.0,,1,False,4,,,,,,,
 Larceny Theft - Shoplifting,index,0.0,Whole Number,947,,,16323.810982048575,229.0,9697.0,16562.0,22643.0,30679.0,7890.759800925677
 Larceny Theft - Shoplifting,Incident Datetime,0.0,text,724,2020/11/01 05:13:00 PM,12,,,,,,,
 Larceny Theft - Shoplifting,Incident Date,0.0,text,494,2020/11/01,15,,,,,,,
@@ -1878,12 +1906,13 @@ Larceny Theft - Shoplifting,Outcome Sub-Type,0.0,text,9,NEG                 ,422
 Larceny Theft - Shoplifting,Outcome Sub-Type Description,0.0,text,9,Negotiated                  ,422,,,,,,,
 Larceny Theft - Shoplifting,Dispo Case Type,0.0,text,3,Misdemeanor    ,677,,,,,,,
 Larceny Theft - Shoplifting,Sentence Type,0.0,text,9,                              ,553,,,,,,,
-Larceny Theft - Shoplifting,SP Term,0.9662090813093981,Decimal number,9,,,893.4895833333333,0.0,486.6666666666667,973.3333333333334,1155.8333333333333,4015.0,736.2588711424953
-Larceny Theft - Shoplifting,CJ Term,0.6304118268215417,Decimal number,66,,,59.78,0.0,7.0,25.0,86.0,365.0,80.24257321120476
-Larceny Theft - Shoplifting,Supervision Term,0.0,text,8,                ,680,,,,,,,
-Larceny Theft - Shoplifting,Program Term,0.9852164730728616,Decimal number,8,,,163.76968864468864,0.0,0.7916666666666667,84.23076923076923,167.29166666666666,730.0,248.27747855486228
+Larceny Theft - Shoplifting,SP Term,0.0,text,10,       ,751,,,,,,,
+Larceny Theft - Shoplifting,CJ Term,0.0,text,60,       ,433,,,,,,,
+Larceny Theft - Shoplifting,Supervision Term,0.0,text,8,                ,516,,,,,,,
+Larceny Theft - Shoplifting,Program Term,0.8215417106652587,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Larceny Theft - Shoplifting,Forfeiture,0.0,text,1,                ,947,,,,,,,
 Larceny Theft - Shoplifting,Outcome Description,0.0,text,5,Guilty Plea        ,420,,,,,,,
+Larceny Theft - Shoplifting,dismissed,0.0,,2,False,781,,,,,,,
 Liquor Law Violation,index,0.0,Whole Number,93,,,14007.021505376344,875.0,7575.0,14243.0,20474.0,29148.0,8241.35865484529
 Liquor Law Violation,Incident Datetime,0.0,text,72,2020/10/19 02:09:00 PM,2,,,,,,,
 Liquor Law Violation,Incident Date,0.0,text,62,2018/01/08,3,,,,,,,
@@ -1943,12 +1972,13 @@ Liquor Law Violation,Outcome Sub-Type,0.0,text,7,NEG                 ,48,,,,,,,
 Liquor Law Violation,Outcome Sub-Type Description,0.0,text,7,Negotiated                  ,48,,,,,,,
 Liquor Law Violation,Dispo Case Type,0.0,text,3,Misdemeanor    ,72,,,,,,,
 Liquor Law Violation,Sentence Type,0.0,text,6,                              ,37,,,,,,,
-Liquor Law Violation,SP Term,0.989247311827957,Decimal number,1,,,2555.0,2555.0,2555.0,2555.0,2555.0,2555.0,
-Liquor Law Violation,CJ Term,0.41935483870967744,Decimal number,13,,,43.898148148148145,1.0,2.0,3.0,23.75,365.0,81.49050064037617
-Liquor Law Violation,Supervision Term,0.0,text,5,                ,45,,,,,,,
-Liquor Law Violation,Program Term,0.6344086021505376,Decimal number,7,,,536.8235294117648,0.5,91.25,91.25,273.75,6570.0,1538.204763984542
+Liquor Law Violation,SP Term,0.0,text,3,       ,79,,,,,,,
+Liquor Law Violation,CJ Term,0.0,text,14,       ,26,,,,,,,
+Liquor Law Violation,Supervision Term,0.0,text,6,3.0,35.0,,,,,,,
+Liquor Law Violation,Program Term,0.8494623655913979,Decimal number,2,,,2605024.5535714286,0.0,0.0,0.0,0.0,36470343.75,9747109.363598026
 Liquor Law Violation,Forfeiture,0.0,text,1,                ,93,,,,,,,
 Liquor Law Violation,Outcome Description,0.0,text,7,Guilty Plea        ,54,,,,,,,
+Liquor Law Violation,dismissed,0.0,,2,False,80,,,,,,,
 Loitering,index,0.0,Whole Number,32,,,10352.21875,1262.0,2802.75,9171.5,14974.0,27380.0,7489.879036597514
 Loitering,Incident Datetime,0.0,text,24,2019/03/16 02:51:00 PM,5,,,,,,,
 Loitering,Incident Date,0.0,text,23,2019/03/16,5,,,,,,,
@@ -2008,12 +2038,13 @@ Loitering,Outcome Sub-Type,0.0,text,6,                    ,11,,,,,,,
 Loitering,Outcome Sub-Type Description,0.0,text,6,                            ,11,,,,,,,
 Loitering,Dispo Case Type,0.0,text,2,Misdemeanor    ,26,,,,,,,
 Loitering,Sentence Type,0.0,text,3,                              ,23,,,,,,,
-Loitering,SP Term,1.0,Decimal number,0,,,,,,,,,
-Loitering,CJ Term,0.6875,Decimal number,5,,,129.7,2.0,58.5,180.0,180.0,182.5,82.23516414662417
-Loitering,Supervision Term,0.0,text,3,                ,22,,,,,,,
-Loitering,Program Term,1.0,Decimal number,0,,,,,,,,,
+Loitering,SP Term,0.0,text,2,       ,22,,,,,,,
+Loitering,CJ Term,0.0,text,7,       ,12,,,,,,,
+Loitering,Supervision Term,0.0,text,4,                ,12,,,,,,,
+Loitering,Program Term,0.6875,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Loitering,Forfeiture,0.0,text,1,                ,32,,,,,,,
 Loitering,Outcome Description,0.0,text,3,Dismissal          ,12,,,,,,,
+Loitering,dismissed,0.0,,2,False,22,,,,,,,
 Lost Property,index,0.0,Whole Number,10,,,10964.3,3122.0,5551.75,13235.5,14244.5,20397.0,6175.252240462193
 Lost Property,Incident Datetime,0.0,text,7,2018/12/29 06:15:00 AM,3,,,,,,,
 Lost Property,Incident Date,0.0,text,7,2018/12/29,3,,,,,,,
@@ -2073,12 +2104,13 @@ Lost Property,Outcome Sub-Type,0.0,text,3,NEG                 ,7,,,,,,,
 Lost Property,Outcome Sub-Type Description,0.0,text,3,Negotiated                  ,7,,,,,,,
 Lost Property,Dispo Case Type,0.0,text,2,Misdemeanor    ,5,,,,,,,
 Lost Property,Sentence Type,0.0,text,5,ISS Formal Probation/County Ja,4,,,,,,,
-Lost Property,SP Term,1.0,Decimal number,0,,,,,,,,,
-Lost Property,CJ Term,0.1,Decimal number,6,,,69.19444444444444,1.0,5.0,50.0,57.0,273.75,95.22947431219905
-Lost Property,Supervision Term,0.0,text,4,3.0,4.0,,,,,,,
-Lost Property,Program Term,1.0,Decimal number,0,,,,,,,,,
+Lost Property,SP Term,0.0,text,2,       ,9,,,,,,,
+Lost Property,CJ Term,0.0,text,7,5.0,2.0,,,,,,,
+Lost Property,Supervision Term,0.0,text,5,3.0,4.0,,,,,,,
+Lost Property,Program Term,0.9,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,
 Lost Property,Forfeiture,0.0,text,1,                ,10,,,,,,,
 Lost Property,Outcome Description,0.0,text,2,Guilty Plea        ,9,,,,,,,
+Lost Property,dismissed,0.0,,2,False,9,,,,,,,
 Manslaughter,index,0.0,Whole Number,11,,,16367.272727272728,4943.0,9343.0,16645.0,21916.0,30015.0,9062.045973078144
 Manslaughter,Incident Datetime,0.0,text,11,2018/04/20 12:16:00 PM,1,,,,,,,
 Manslaughter,Incident Date,0.0,text,10,2018/08/25,2,,,,,,,
@@ -2138,12 +2170,13 @@ Manslaughter,Outcome Sub-Type,0.0,text,3,NEG                 ,8,,,,,,,
 Manslaughter,Outcome Sub-Type Description,0.0,text,3,Negotiated                  ,8,,,,,,,
 Manslaughter,Dispo Case Type,0.0,text,2,Misdemeanor    ,8,,,,,,,
 Manslaughter,Sentence Type,0.0,text,4,Court Probation Only          ,4,,,,,,,
-Manslaughter,SP Term,0.9090909090909091,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,
-Manslaughter,CJ Term,0.6363636363636364,Decimal number,4,,,23.25,0.0,0.75,1.5,24.0,90.0,44.50749000636485
-Manslaughter,Supervision Term,0.0,text,3,2.0,4.0,,,,,,,
-Manslaughter,Program Term,0.8181818181818182,Decimal number,2,,,5.208333333333333,0.0,2.6041666666666665,5.208333333333333,7.8125,10.416666666666666,7.365695637359869
+Manslaughter,SP Term,0.0,text,2,       ,8,,,,,,,
+Manslaughter,CJ Term,0.0,text,5,       ,5,,,,,,,
+Manslaughter,Supervision Term,0.0,text,4,2.0,4.0,,,,,,,
+Manslaughter,Program Term,0.7272727272727273,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Manslaughter,Forfeiture,0.0,text,1,                ,11,,,,,,,
 Manslaughter,Outcome Description,0.0,text,4,Guilty Plea        ,7,,,,,,,
+Manslaughter,dismissed,0.0,,2,False,9,,,,,,,
 Miscellaneous Investigation,index,0.0,Whole Number,41,,,12288.829268292682,123.0,4900.0,11626.0,20338.0,28595.0,9243.431589248765
 Miscellaneous Investigation,Incident Datetime,0.0,text,34,2018/12/30 07:17:00 AM,5,,,,,,,
 Miscellaneous Investigation,Incident Date,0.0,text,34,2018/12/30,5,,,,,,,
@@ -2203,12 +2236,13 @@ Miscellaneous Investigation,Outcome Sub-Type,0.0,text,6,NEG                 ,19,
 Miscellaneous Investigation,Outcome Sub-Type Description,0.0,text,6,Negotiated                  ,19,,,,,,,
 Miscellaneous Investigation,Dispo Case Type,0.0,text,2,Felony         ,21,,,,,,,
 Miscellaneous Investigation,Sentence Type,0.0,text,6,                              ,21,,,,,,,
-Miscellaneous Investigation,SP Term,0.975609756097561,Decimal number,1,,,1460.0,1460.0,1460.0,1460.0,1460.0,1460.0,
-Miscellaneous Investigation,CJ Term,0.7317073170731707,Decimal number,7,,,33.81818181818182,2.0,3.0,10.0,39.0,124.0,46.94000038734168
-Miscellaneous Investigation,Supervision Term,0.0,text,4,                ,34,,,,,,,
-Miscellaneous Investigation,Program Term,0.926829268292683,Decimal number,2,,,304.1666666666667,182.5,273.75,365.0,365.0,365.0,105.36642412710671
+Miscellaneous Investigation,SP Term,0.0,text,3,       ,34,,,,,,,
+Miscellaneous Investigation,CJ Term,0.0,text,9,       ,24,,,,,,,
+Miscellaneous Investigation,Supervision Term,0.0,text,5,                ,28,,,,,,,
+Miscellaneous Investigation,Program Term,0.8536585365853658,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Miscellaneous Investigation,Forfeiture,0.0,text,1,                ,41,,,,,,,
 Miscellaneous Investigation,Outcome Description,0.0,text,6,Guilty Plea        ,17,,,,,,,
+Miscellaneous Investigation,dismissed,0.0,,2,False,35,,,,,,,
 Missing Adult,index,0.0,Whole Number,1,,,1434.0,1434.0,1434.0,1434.0,1434.0,1434.0,
 Missing Adult,Incident Datetime,0.0,text,1,2018/02/20 11:00:00 AM,1,,,,,,,
 Missing Adult,Incident Date,0.0,text,1,2018/02/20,1,,,,,,,
@@ -2268,12 +2302,13 @@ Missing Adult,Outcome Sub-Type,0.0,text,1,                    ,1,,,,,,,
 Missing Adult,Outcome Sub-Type Description,0.0,text,1,                            ,1,,,,,,,
 Missing Adult,Dispo Case Type,0.0,text,1,Misdemeanor    ,1,,,,,,,
 Missing Adult,Sentence Type,0.0,text,1,                              ,1,,,,,,,
-Missing Adult,SP Term,1.0,Decimal number,0,,,,,,,,,
-Missing Adult,CJ Term,1.0,Decimal number,0,,,,,,,,,
+Missing Adult,SP Term,0.0,text,1,       ,1,,,,,,,
+Missing Adult,CJ Term,0.0,text,1,       ,1,,,,,,,
 Missing Adult,Supervision Term,0.0,text,1,                ,1,,,,,,,
 Missing Adult,Program Term,1.0,Decimal number,0,,,,,,,,,
 Missing Adult,Forfeiture,0.0,text,1,                ,1,,,,,,,
 Missing Adult,Outcome Description,0.0,text,1,                   ,1,,,,,,,
+Missing Adult,dismissed,0.0,,1,False,1,,,,,,,
 Missing Person,index,0.0,Whole Number,35,,,15636.714285714286,1432.0,10741.5,14821.0,22831.0,30458.0,8741.075713082957
 Missing Person,Incident Datetime,0.0,text,24,2020/09/28 09:30:00 AM,8,,,,,,,
 Missing Person,Incident Date,0.0,text,23,2020/09/28,8,,,,,,,
@@ -2333,12 +2368,13 @@ Missing Person,Outcome Sub-Type,0.0,text,5,                    ,12,,,,,,,
 Missing Person,Outcome Sub-Type Description,0.0,text,5,                            ,12,,,,,,,
 Missing Person,Dispo Case Type,0.0,text,3,Misdemeanor    ,21,,,,,,,
 Missing Person,Sentence Type,0.0,text,5,                              ,17,,,,,,,
-Missing Person,SP Term,0.9428571428571428,Decimal number,2,,,851.6666666666666,0.0,425.8333333333333,851.6666666666666,1277.5,1703.3333333333333,1204.4385506210858
-Missing Person,CJ Term,0.8,Decimal number,4,,,45.42857142857143,2.0,21.5,40.0,40.0,153.0,50.62231768320221
-Missing Person,Supervision Term,0.0,text,4,                ,19,,,,,,,
-Missing Person,Program Term,0.9428571428571428,Decimal number,2,,,45.625,0.0,22.8125,45.625,68.4375,91.25,64.52349378327246
+Missing Person,SP Term,0.0,text,3,       ,28,,,,,,,
+Missing Person,CJ Term,0.0,text,6,       ,23,,,,,,,
+Missing Person,Supervision Term,0.0,text,5,                ,14,,,,,,,
+Missing Person,Program Term,0.8285714285714286,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Missing Person,Forfeiture,0.0,text,1,                ,35,,,,,,,
 Missing Person,Outcome Description,0.0,text,5,Guilty Plea        ,17,,,,,,,
+Missing Person,dismissed,0.0,,2,False,30,,,,,,,
 Motor Vehicle Theft,index,0.0,Whole Number,660,,,17555.904545454545,4.0,10141.75,18976.5,25611.5,30704.0,9121.986909274136
 Motor Vehicle Theft,Incident Datetime,0.0,text,460,2020/05/01 05:17:00 AM,9,,,,,,,
 Motor Vehicle Theft,Incident Date,0.0,text,374,2020/05/01,9,,,,,,,
@@ -2398,12 +2434,13 @@ Motor Vehicle Theft,Outcome Sub-Type,0.0,text,9,NEG                 ,375,,,,,,,
 Motor Vehicle Theft,Outcome Sub-Type Description,0.0,text,9,Negotiated                  ,375,,,,,,,
 Motor Vehicle Theft,Dispo Case Type,0.0,text,3,Felony         ,376,,,,,,,
 Motor Vehicle Theft,Sentence Type,0.0,text,9,                              ,275,,,,,,,
-Motor Vehicle Theft,SP Term,0.9181818181818182,Decimal number,8,,,1031.9135802469134,0.0,1095.0,1095.0,1095.0,2798.3333333333335,374.2494105827438
-Motor Vehicle Theft,CJ Term,0.5181818181818182,Decimal number,75,,,99.13640945008869,1.0,10.0,37.0,165.0,454.0,117.68185787895315
-Motor Vehicle Theft,Supervision Term,0.0,text,11,                ,377,,,,,,,
-Motor Vehicle Theft,Program Term,0.9742424242424242,Decimal number,6,,,177.70098039215685,1.6666666666666667,2.0,182.5,182.5,730.0,183.25622208538113
+Motor Vehicle Theft,SP Term,0.0,text,9,       ,542,,,,,,,
+Motor Vehicle Theft,CJ Term,0.0,text,68,       ,281,,,,,,,
+Motor Vehicle Theft,Supervision Term,0.0,text,11,                ,312,,,,,,,
+Motor Vehicle Theft,Program Term,0.8984848484848484,Decimal number,2,,,120962.99751243783,0.0,0.0,0.0,0.0,8104520.833333334,990124.8069824333
 Motor Vehicle Theft,Forfeiture,0.0,text,1,                ,660,,,,,,,
 Motor Vehicle Theft,Outcome Description,0.0,text,7,Guilty Plea        ,397,,,,,,,
+Motor Vehicle Theft,dismissed,0.0,,2,False,594,,,,,,,
 Motor Vehicle Theft (Attempted),index,0.0,Whole Number,17,,,15798.764705882353,3033.0,8123.0,15707.0,20099.0,30523.0,8622.304539169123
 Motor Vehicle Theft (Attempted),Incident Datetime,0.0,text,16,2018/06/22 02:45:00 AM,2,,,,,,,
 Motor Vehicle Theft (Attempted),Incident Date,0.0,text,16,2018/06/22,2,,,,,,,
@@ -2463,12 +2500,13 @@ Motor Vehicle Theft (Attempted),Outcome Sub-Type,0.0,text,4,NEG                 
 Motor Vehicle Theft (Attempted),Outcome Sub-Type Description,0.0,text,4,Negotiated                  ,10,,,,,,,
 Motor Vehicle Theft (Attempted),Dispo Case Type,0.0,text,2,Felony         ,9,,,,,,,
 Motor Vehicle Theft (Attempted),Sentence Type,0.0,text,6,                              ,9,,,,,,,
-Motor Vehicle Theft (Attempted),SP Term,0.9411764705882353,Decimal number,1,,,486.6666666666667,486.6666666666667,486.6666666666667,486.6666666666667,486.6666666666667,486.6666666666667,
-Motor Vehicle Theft (Attempted),CJ Term,0.5882352941176471,Decimal number,5,,,98.28571428571429,18.0,19.0,20.0,120.0,372.0,130.90163518932104
-Motor Vehicle Theft (Attempted),Supervision Term,0.0,text,4,                ,11,,,,,,,
-Motor Vehicle Theft (Attempted),Program Term,1.0,Decimal number,0,,,,,,,,,
+Motor Vehicle Theft (Attempted),SP Term,0.0,text,3,       ,12,,,,,,,
+Motor Vehicle Theft (Attempted),CJ Term,0.0,text,7,       ,6,,,,,,,
+Motor Vehicle Theft (Attempted),Supervision Term,0.0,text,5,                ,7,,,,,,,
+Motor Vehicle Theft (Attempted),Program Term,0.7647058823529411,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Motor Vehicle Theft (Attempted),Forfeiture,0.0,text,1,                ,17,,,,,,,
 Motor Vehicle Theft (Attempted),Outcome Description,0.0,text,4,Guilty Plea        ,8,,,,,,,
+Motor Vehicle Theft (Attempted),dismissed,0.0,,2,False,13,,,,,,,
 Non-Criminal,index,0.0,Whole Number,1094,,,14303.476234003656,28.0,5873.75,13446.5,22625.5,30683.0,9337.672776987987
 Non-Criminal,Incident Datetime,0.0,text,843,2019/01/31 05:00:00 AM,16,,,,,,,
 Non-Criminal,Incident Date,0.0,text,539,2019/01/31,27,,,,,,,
@@ -2528,12 +2566,13 @@ Non-Criminal,Outcome Sub-Type,0.0,text,11,NEG                 ,405,,,,,,,
 Non-Criminal,Outcome Sub-Type Description,0.0,text,11,Negotiated                  ,405,,,,,,,
 Non-Criminal,Dispo Case Type,0.0,text,2,Felony         ,664,,,,,,,
 Non-Criminal,Sentence Type,0.0,text,9,                              ,682,,,,,,,
-Non-Criminal,SP Term,0.9296160877513712,Decimal number,14,,,1476.590909090909,0.0,730.0,1095.0,1703.3333333333333,4623.333333333333,1015.907864854096
-Non-Criminal,CJ Term,0.706581352833638,Decimal number,86,,,92.19158878504675,0.0,5.0,25.0,124.0,1095.0,136.5621220508468
-Non-Criminal,Supervision Term,0.0,text,12,                ,805,,,,,,,
-Non-Criminal,Program Term,0.9314442413162706,Decimal number,11,,,263.2578632478632,0.0,91.25,182.5,365.0,730.0,186.26679762694428
+Non-Criminal,SP Term,0.0,text,15,       ,756,,,,,,,
+Non-Criminal,CJ Term,0.0,text,83,       ,512,,,,,,,
+Non-Criminal,Supervision Term,0.0,text,12,                ,544,,,,,,,
+Non-Criminal,Program Term,0.7568555758683729,Decimal number,3,,,914043.7030075188,0.0,0.0,0.0,0.0,97254250.0,8914507.7822366
 Non-Criminal,Forfeiture,0.0,text,8,                ,1085,,,,,,,
 Non-Criminal,Outcome Description,0.0,text,7,Guilty Plea        ,419,,,,,,,
+Non-Criminal,dismissed,0.0,,2,False,832,,,,,,,
 Other,index,0.0,Whole Number,7490,,,14778.778104138852,2.0,7162.5,14553.5,22060.75,30695.0,8662.727077295247
 Other,Incident Datetime,0.0,text,4484,2019/07/19 01:50:00 AM,20,,,,,,,
 Other,Incident Date,0.0,text,1175,2019/07/19,42,,,,,,,
@@ -2593,12 +2632,13 @@ Other,Outcome Sub-Type,0.0,text,13,NEG                 ,3891,,,,,,,
 Other,Outcome Sub-Type Description,0.0,text,13,Negotiated                  ,3891,,,,,,,
 Other,Dispo Case Type,0.0,text,4,Misdemeanor    ,3776,,,,,,,
 Other,Sentence Type,0.0,text,10,                              ,3422,,,,,,,
-Other,SP Term,0.9453938584779706,Decimal number,22,,,981.7909535452322,0.0,486.6666666666667,730.0,1095.0,8395.0,947.281666127133
-Other,CJ Term,0.5439252336448598,Decimal number,215,,,92.42560462078904,0.0,13.0,41.0,129.0,2159.5833333333335,120.63147451289424
-Other,Supervision Term,0.0,text,16,                ,4421,,,,,,,
-Other,Program Term,0.9206942590120161,Decimal number,33,,,287.3518788310455,0.0,91.25,273.75,365.0,1095.0,241.73642836682072
+Other,SP Term,0.0,text,21,       ,6089,,,,,,,
+Other,CJ Term,0.0,text,200,       ,3095,,,,,,,
+Other,Supervision Term,0.0,text,16,                ,3436,,,,,,,
+Other,Program Term,0.8616822429906542,Decimal number,8,,,171646510.78416586,0.0,0.0,0.0,0.0,17748900625.0,1736153533.1941352
 Other,Forfeiture,0.0,text,5,                ,7486,,,,,,,
 Other,Outcome Description,0.0,text,7,Guilty Plea        ,4138,,,,,,,
+Other,dismissed,0.0,,2,False,6494,,,,,,,
 Other Offenses,index,0.0,Whole Number,29,,,17081.758620689656,2605.0,11612.0,20849.0,24943.0,28918.0,9548.95374094974
 Other Offenses,Incident Datetime,0.0,text,20,2018/03/13 04:42:00 AM,4,,,,,,,
 Other Offenses,Incident Date,0.0,text,19,2018/03/13,4,,,,,,,
@@ -2658,12 +2698,13 @@ Other Offenses,Outcome Sub-Type,0.0,text,4,NEG                 ,14,,,,,,,
 Other Offenses,Outcome Sub-Type Description,0.0,text,4,Negotiated                  ,14,,,,,,,
 Other Offenses,Dispo Case Type,0.0,text,2,Misdemeanor    ,20,,,,,,,
 Other Offenses,Sentence Type,0.0,text,6,                              ,16,,,,,,,
-Other Offenses,SP Term,0.9310344827586207,Decimal number,2,,,912.5,730.0,821.25,912.5,1003.75,1095.0,258.0939751330898
-Other Offenses,CJ Term,0.6551724137931034,Decimal number,7,,,28.15,2.0,3.0,6.5,26.5,182.5,55.33034630491862
-Other Offenses,Supervision Term,0.0,text,3,                ,21,,,,,,,
-Other Offenses,Program Term,0.9655172413793104,Decimal number,1,,,1.6666666666666667,1.6666666666666667,1.6666666666666667,1.6666666666666667,1.6666666666666667,1.6666666666666667,
+Other Offenses,SP Term,0.0,text,4,       ,25,,,,,,,
+Other Offenses,CJ Term,0.0,text,9,       ,18,,,,,,,
+Other Offenses,Supervision Term,0.0,text,4,                ,20,,,,,,,
+Other Offenses,Program Term,0.9310344827586207,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Other Offenses,Forfeiture,0.0,text,1,                ,29,,,,,,,
 Other Offenses,Outcome Description,0.0,text,3,                   ,13,,,,,,,
+Other Offenses,dismissed,0.0,,2,False,27,,,,,,,
 Prostitution,index,0.0,Whole Number,14,,,15463.42857142857,7994.0,10861.25,15872.0,19869.75,23139.0,5061.571262794948
 Prostitution,Incident Datetime,0.0,text,11,2018/03/27 12:15:00 AM,2,,,,,,,
 Prostitution,Incident Date,0.0,text,11,2018/03/27,2,,,,,,,
@@ -2723,12 +2764,13 @@ Prostitution,Outcome Sub-Type,0.0,text,4,DAD                 ,6,,,,,,,
 Prostitution,Outcome Sub-Type Description,0.0,text,4,DA Dismissal                ,6,,,,,,,
 Prostitution,Dispo Case Type,0.0,text,2,Misdemeanor    ,13,,,,,,,
 Prostitution,Sentence Type,0.0,text,2,                              ,12,,,,,,,
-Prostitution,SP Term,1.0,Decimal number,0,,,,,,,,,
-Prostitution,CJ Term,0.8571428571428571,Decimal number,1,,,60.0,60.0,60.0,60.0,60.0,60.0,0.0
-Prostitution,Supervision Term,0.0,text,2,                ,12,,,,,,,
-Prostitution,Program Term,0.7857142857142857,Decimal number,2,,,122.0138888888889,1.0416666666666667,91.77083333333333,182.5,182.5,182.5,104.76501759670084
+Prostitution,SP Term,0.0,text,2,       ,8,,,,,,,
+Prostitution,CJ Term,0.0,text,3,       ,6,,,,,,,
+Prostitution,Supervision Term,0.0,text,3,                ,6,,,,,,,
+Prostitution,Program Term,0.5714285714285714,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Prostitution,Forfeiture,0.0,text,1,                ,14,,,,,,,
 Prostitution,Outcome Description,0.0,text,4,Dismissal          ,7,,,,,,,
+Prostitution,dismissed,0.0,,2,False,8,,,,,,,
 Rape - Attempted,index,0.0,Whole Number,2,,,9004.0,6059.0,7531.5,9004.0,10476.5,11949.0,4164.858941188765
 Rape - Attempted,Incident Datetime,0.0,text,2,2018/02/25 09:30:00 PM,1,,,,,,,
 Rape - Attempted,Incident Date,0.0,text,2,2018/02/25,1,,,,,,,
@@ -2788,12 +2830,13 @@ Rape - Attempted,Outcome Sub-Type,0.0,text,1,NEG                 ,2,,,,,,,
 Rape - Attempted,Outcome Sub-Type Description,0.0,text,1,Negotiated                  ,2,,,,,,,
 Rape - Attempted,Dispo Case Type,0.0,text,2,Felony         ,1,,,,,,,
 Rape - Attempted,Sentence Type,0.0,text,2,ESS Formal Probation/County Ja,1,,,,,,,
-Rape - Attempted,SP Term,1.0,Decimal number,0,,,,,,,,,
-Rape - Attempted,CJ Term,0.0,Decimal number,2,,,307.5,250.0,278.75,307.5,336.25,365.0,81.31727983645297
+Rape - Attempted,SP Term,0.0,text,1,       ,2,,,,,,,
+Rape - Attempted,CJ Term,0.0,text,2,1.0,1.0,,,,,,,
 Rape - Attempted,Supervision Term,0.0,text,2,5.0,1.0,,,,,,,
-Rape - Attempted,Program Term,0.5,Decimal number,1,,,365.0,365.0,365.0,365.0,365.0,365.0,
+Rape - Attempted,Program Term,1.0,Decimal number,0,,,,,,,,,
 Rape - Attempted,Forfeiture,0.0,text,1,                ,2,,,,,,,
 Rape - Attempted,Outcome Description,0.0,text,1,Guilty Plea        ,2,,,,,,,
+Rape - Attempted,dismissed,0.0,,1,False,2,,,,,,,
 Recovered Vehicle,index,0.0,Whole Number,429,,,16479.710955710954,147.0,8908.0,16021.0,24493.0,30687.0,9103.725051508007
 Recovered Vehicle,Incident Datetime,0.0,text,301,2018/12/02 02:28:00 PM,14,,,,,,,
 Recovered Vehicle,Incident Date,0.0,text,253,2018/12/02,14,,,,,,,
@@ -2853,12 +2896,13 @@ Recovered Vehicle,Outcome Sub-Type,0.0,text,10,NEG                 ,246,,,,,,,
 Recovered Vehicle,Outcome Sub-Type Description,0.0,text,10,Negotiated                  ,246,,,,,,,
 Recovered Vehicle,Dispo Case Type,0.0,text,2,Felony         ,258,,,,,,,
 Recovered Vehicle,Sentence Type,0.0,text,9,                              ,183,,,,,,,
-Recovered Vehicle,SP Term,0.9184149184149184,Decimal number,6,,,1108.9047619047622,0.0,730.0,730.0,1095.0,8760.0,1367.225193311264
-Recovered Vehicle,CJ Term,0.5314685314685315,Decimal number,55,,,83.3982969766552,1.0,7.0,23.0,135.0,454.0,112.72861526176796
-Recovered Vehicle,Supervision Term,0.0,text,10,                ,247,,,,,,,
-Recovered Vehicle,Program Term,0.9790209790209791,Decimal number,3,,,182.72222222222223,2.0,182.5,182.5,182.5,365.0,90.75107131292967
+Recovered Vehicle,SP Term,0.0,text,7,       ,346,,,,,,,
+Recovered Vehicle,CJ Term,0.0,text,52,       ,181,,,,,,,
+Recovered Vehicle,Supervision Term,0.0,text,10,                ,200,,,,,,,
+Recovered Vehicle,Program Term,0.8881118881118881,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Recovered Vehicle,Forfeiture,0.0,text,1,                ,429,,,,,,,
 Recovered Vehicle,Outcome Description,0.0,text,7,Guilty Plea        ,256,,,,,,,
+Recovered Vehicle,dismissed,0.0,,2,False,381,,,,,,,
 Robbery - Carjacking,index,0.0,Whole Number,86,,,14061.837209302326,142.0,1542.75,13207.0,22573.0,30697.0,9986.961194607655
 Robbery - Carjacking,Incident Datetime,0.0,text,53,2019/02/04 04:45:00 AM,6,,,,,,,
 Robbery - Carjacking,Incident Date,0.0,text,46,2019/02/04,9,,,,,,,
@@ -2918,12 +2962,13 @@ Robbery - Carjacking,Outcome Sub-Type,0.0,text,5,                    ,44,,,,,,,
 Robbery - Carjacking,Outcome Sub-Type Description,0.0,text,5,                            ,44,,,,,,,
 Robbery - Carjacking,Dispo Case Type,0.0,text,2,Felony         ,69,,,,,,,
 Robbery - Carjacking,Sentence Type,0.0,text,6,                              ,44,,,,,,,
-Robbery - Carjacking,SP Term,0.872093023255814,Decimal number,5,,,929.0909090909091,486.6666666666667,730.0,730.0,1095.0,1460.0,304.27725262438935
-Robbery - Carjacking,CJ Term,0.7558139534883721,Decimal number,9,,,111.61904761904762,5.0,27.0,180.0,180.0,260.0,89.16528258827881
-Robbery - Carjacking,Supervision Term,0.0,text,4,                ,63,,,,,,,
-Robbery - Carjacking,Program Term,0.9883720930232558,Decimal number,1,,,182.5,182.5,182.5,182.5,182.5,182.5,
+Robbery - Carjacking,SP Term,0.0,text,7,       ,68,,,,,,,
+Robbery - Carjacking,CJ Term,0.0,text,11,       ,58,,,,,,,
+Robbery - Carjacking,Supervision Term,0.0,text,5,                ,56,,,,,,,
+Robbery - Carjacking,Program Term,0.9186046511627907,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Robbery - Carjacking,Forfeiture,0.0,text,1,                ,86,,,,,,,
 Robbery - Carjacking,Outcome Description,0.0,text,6,Guilty Plea        ,38,,,,,,,
+Robbery - Carjacking,dismissed,0.0,,2,False,79,,,,,,,
 Robbery - Commercial,index,0.0,Whole Number,662,,,14744.006042296072,127.0,6697.25,14001.5,22101.75,30666.0,8963.666750256043
 Robbery - Commercial,Incident Datetime,0.0,text,434,2019/02/02 12:10:00 PM,6,,,,,,,
 Robbery - Commercial,Incident Date,0.0,text,346,2018/02/22,12,,,,,,,
@@ -2983,12 +3028,13 @@ Robbery - Commercial,Outcome Sub-Type,0.0,text,11,NEG                 ,403,,,,,,
 Robbery - Commercial,Outcome Sub-Type Description,0.0,text,11,Negotiated                  ,403,,,,,,,
 Robbery - Commercial,Dispo Case Type,0.0,text,2,Felony         ,410,,,,,,,
 Robbery - Commercial,Sentence Type,0.0,text,9,                              ,246,,,,,,,
-Robbery - Commercial,SP Term,0.9259818731117825,Decimal number,7,,,1253.9115646258504,0.0,730.0,1460.0,1825.0,3285.0,686.547619047619
-Robbery - Commercial,CJ Term,0.48036253776435045,Decimal number,75,,,87.6000111806798,1.0,13.0,44.0,121.66666666666667,592.0,106.9743247763905
-Robbery - Commercial,Supervision Term,0.0,text,8,                ,379,,,,,,,
-Robbery - Commercial,Program Term,0.9335347432024169,Decimal number,11,,,311.2613636363636,0.0,91.25,365.0,365.0,1095.0,261.833036708607
+Robbery - Commercial,SP Term,0.0,text,8,       ,561,,,,,,,
+Robbery - Commercial,CJ Term,0.0,text,69,       ,266,,,,,,,
+Robbery - Commercial,Supervision Term,0.0,text,8,                ,327,,,,,,,
+Robbery - Commercial,Program Term,0.9169184290030211,Decimal number,2,,,107569094.6969697,0.0,0.0,0.0,0.0,2958150104.166667,558849562.6797472
 Robbery - Commercial,Forfeiture,0.0,text,1,                ,662,,,,,,,
 Robbery - Commercial,Outcome Description,0.0,text,7,Guilty Plea        ,408,,,,,,,
+Robbery - Commercial,dismissed,0.0,,2,False,610,,,,,,,
 Robbery - Other,index,0.0,Whole Number,551,,,14349.234119782213,22.0,6686.5,15347.0,22438.0,30536.0,8826.703348445099
 Robbery - Other,Incident Datetime,0.0,text,378,2019/04/08 02:00:00 AM,10,,,,,,,
 Robbery - Other,Incident Date,0.0,text,293,2019/04/08,11,,,,,,,
@@ -3048,12 +3094,13 @@ Robbery - Other,Outcome Sub-Type,0.0,text,11,NEG                 ,333,,,,,,,
 Robbery - Other,Outcome Sub-Type Description,0.0,text,11,Negotiated                  ,333,,,,,,,
 Robbery - Other,Dispo Case Type,0.0,text,2,Felony         ,405,,,,,,,
 Robbery - Other,Sentence Type,0.0,text,10,                              ,214,,,,,,,
-Robbery - Other,SP Term,0.8638838475499092,Decimal number,14,,,1839.6,0.0,730.0,1460.0,1825.0,8760.0,1550.2370699260719
-Robbery - Other,CJ Term,0.5480943738656987,Decimal number,73,,,110.35408299866131,0.0,18.0,53.0,182.5,537.0,122.4835041836491
-Robbery - Other,Supervision Term,0.0,text,7,                ,309,,,,,,,
-Robbery - Other,Program Term,0.941923774954628,Decimal number,10,,,308.44140625,0.0,168.46153846153845,182.5,365.0,1095.0,269.7153954727396
+Robbery - Other,SP Term,0.0,text,15,       ,436,,,,,,,
+Robbery - Other,CJ Term,0.0,text,70,       ,262,,,,,,,
+Robbery - Other,Supervision Term,0.0,text,7,                ,269,,,,,,,
+Robbery - Other,Program Term,0.9201451905626135,Decimal number,3,,,405594428.97727275,0.0,0.0,0.0,0.0,17748900625.0,2675426076.0203347
 Robbery - Other,Forfeiture,0.0,text,1,                ,551,,,,,,,
 Robbery - Other,Outcome Description,0.0,text,7,Guilty Plea        ,334,,,,,,,
+Robbery - Other,dismissed,0.0,,2,False,511,,,,,,,
 Robbery - Residential,index,0.0,Whole Number,4,,,15393.75,11076.0,13337.25,14091.5,16148.0,22316.0,4828.810093249337
 Robbery - Residential,Incident Datetime,0.0,text,3,2018/12/16 04:55:00 AM,2,,,,,,,
 Robbery - Residential,Incident Date,0.0,text,3,2018/12/16,2,,,,,,,
@@ -3113,12 +3160,13 @@ Robbery - Residential,Outcome Sub-Type,0.0,text,2,NEG                 ,3,,,,,,,
 Robbery - Residential,Outcome Sub-Type Description,0.0,text,2,Negotiated                  ,3,,,,,,,
 Robbery - Residential,Dispo Case Type,0.0,text,1,Felony         ,4,,,,,,,
 Robbery - Residential,Sentence Type,0.0,text,3,ISS Formal Probation/County Ja,2,,,,,,,
-Robbery - Residential,SP Term,0.75,Decimal number,1,,,730.0,730.0,730.0,730.0,730.0,730.0,
-Robbery - Residential,CJ Term,0.5,Decimal number,1,,,364.0,364.0,364.0,364.0,364.0,364.0,0.0
+Robbery - Residential,SP Term,0.0,text,2,       ,3,,,,,,,
+Robbery - Residential,CJ Term,0.0,text,2,       ,2,,,,,,,
 Robbery - Residential,Supervision Term,0.0,text,2,                ,2,,,,,,,
 Robbery - Residential,Program Term,1.0,Decimal number,0,,,,,,,,,
 Robbery - Residential,Forfeiture,0.0,text,1,                ,4,,,,,,,
 Robbery - Residential,Outcome Description,0.0,text,2,Guilty Plea        ,3,,,,,,,
+Robbery - Residential,dismissed,0.0,,1,False,4,,,,,,,
 Robbery - Street,index,0.0,Whole Number,208,,,16543.28846153846,594.0,9924.0,18457.0,23771.5,30478.0,8380.294642962226
 Robbery - Street,Incident Datetime,0.0,text,138,2020/01/01 08:01:00 PM,8,,,,,,,
 Robbery - Street,Incident Date,0.0,text,123,2020/01/01,8,,,,,,,
@@ -3178,12 +3226,13 @@ Robbery - Street,Outcome Sub-Type,0.0,text,6,NEG                 ,129,,,,,,,
 Robbery - Street,Outcome Sub-Type Description,0.0,text,6,Negotiated                  ,129,,,,,,,
 Robbery - Street,Dispo Case Type,0.0,text,2,Felony         ,153,,,,,,,
 Robbery - Street,Sentence Type,0.0,text,7,ISS Formal Probation/County Ja,78,,,,,,,
-Robbery - Street,SP Term,0.8605769230769231,Decimal number,5,,,1308.9655172413793,730.0,730.0,1095.0,1825.0,2920.0,605.4195406468513
-Robbery - Street,CJ Term,0.5240384615384616,Decimal number,40,,,115.51178451178451,3.0,29.0,90.0,164.0,537.0,108.00507109043605
-Robbery - Street,Supervision Term,0.0,text,6,                ,107,,,,,,,
-Robbery - Street,Program Term,0.9567307692307693,Decimal number,5,,,446.1111111111111,182.5,273.75,365.0,365.0,1095.0,286.5469559882134
+Robbery - Street,SP Term,0.0,text,7,       ,160,,,,,,,
+Robbery - Street,CJ Term,0.0,text,38,       ,90,,,,,,,
+Robbery - Street,Supervision Term,0.0,text,7,                ,88,,,,,,,
+Robbery - Street,Program Term,0.8942307692307693,Decimal number,3,,,1615746744.3181818,0.0,0.0,0.0,0.0,17748900625.0,5221819084.01793
 Robbery - Street,Forfeiture,0.0,text,1,                ,208,,,,,,,
 Robbery - Street,Outcome Description,0.0,text,5,Guilty Plea        ,128,,,,,,,
+Robbery - Street,dismissed,0.0,,2,False,189,,,,,,,
 Sex Offense,index,0.0,Whole Number,102,,,15981.107843137255,97.0,9331.5,16336.0,21851.0,30635.0,8426.280670542
 Sex Offense,Incident Datetime,0.0,text,85,2018/10/27 07:01:00 PM,4,,,,,,,
 Sex Offense,Incident Date,0.0,text,81,2018/10/27,4,,,,,,,
@@ -3243,12 +3292,13 @@ Sex Offense,Outcome Sub-Type,0.0,text,6,NEG                 ,52,,,,,,,
 Sex Offense,Outcome Sub-Type Description,0.0,text,6,Negotiated                  ,52,,,,,,,
 Sex Offense,Dispo Case Type,0.0,text,2,Misdemeanor    ,74,,,,,,,
 Sex Offense,Sentence Type,0.0,text,5,                              ,51,,,,,,,
-Sex Offense,SP Term,0.9705882352941176,Decimal number,1,,,730.0,730.0,730.0,730.0,730.0,730.0,0.0
-Sex Offense,CJ Term,0.5098039215686274,Decimal number,28,,,56.92076923076923,2.0,14.278846153846153,30.0,69.75,365.0,86.82992758674418
-Sex Offense,Supervision Term,0.0,text,6,                ,61,,,,,,,
-Sex Offense,Program Term,0.9901960784313726,Decimal number,1,,,182.5,182.5,182.5,182.5,182.5,182.5,
+Sex Offense,SP Term,0.0,text,3,       ,85,,,,,,,
+Sex Offense,CJ Term,0.0,text,30,       ,38,,,,,,,
+Sex Offense,Supervision Term,0.0,text,7,                ,47,,,,,,,
+Sex Offense,Program Term,0.8627450980392157,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Sex Offense,Forfeiture,0.0,text,1,                ,102,,,,,,,
 Sex Offense,Outcome Description,0.0,text,5,Guilty Plea        ,55,,,,,,,
+Sex Offense,dismissed,0.0,,2,False,88,,,,,,,
 Simple Assault,index,0.0,Whole Number,859,,,14610.983701979045,106.0,7200.0,14611.0,21332.0,30625.0,8660.680740037295
 Simple Assault,Incident Datetime,0.0,text,637,2019/03/02 11:31:00 AM,9,,,,,,,
 Simple Assault,Incident Date,0.0,text,446,2018/05/18,12,,,,,,,
@@ -3308,12 +3358,13 @@ Simple Assault,Outcome Sub-Type,0.0,text,12,NEG                 ,429,,,,,,,
 Simple Assault,Outcome Sub-Type Description,0.0,text,12,Negotiated                  ,429,,,,,,,
 Simple Assault,Dispo Case Type,0.0,text,2,Misdemeanor    ,546,,,,,,,
 Simple Assault,Sentence Type,0.0,text,8,                              ,429,,,,,,,
-Simple Assault,SP Term,0.9650756693830035,Decimal number,6,,,1062.5555555555557,0.0,395.4166666666667,730.0,1460.0,2920.0,913.231571364799
-Simple Assault,CJ Term,0.5529685681024447,Decimal number,93,,,88.74348958333333,0.0,16.0,38.0,109.0,365.0,110.48507517284328
-Simple Assault,Supervision Term,0.0,text,10,                ,515,,,,,,,
-Simple Assault,Program Term,0.8917345750873108,Decimal number,16,,,296.9179073614557,0.0,180.0,365.0,365.0,730.0,142.1612399842849
+Simple Assault,SP Term,0.0,text,7,       ,684,,,,,,,
+Simple Assault,CJ Term,0.0,text,87,       ,335,,,,,,,
+Simple Assault,Supervision Term,0.0,text,11,                ,375,,,,,,,
+Simple Assault,Program Term,0.8265424912689173,Decimal number,2,,,119120138.4228188,0.0,0.0,0.0,0.0,17748900625.0,1454046594.612035
 Simple Assault,Forfeiture,0.0,text,2,                ,858,,,,,,,
 Simple Assault,Outcome Description,0.0,text,9,Guilty Plea        ,434,,,,,,,
+Simple Assault,dismissed,0.0,,2,False,714,,,,,,,
 Stalking,index,0.0,Whole Number,38,,,16301.236842105263,1095.0,7070.25,13393.5,26466.25,29970.0,9795.759762303695
 Stalking,Incident Datetime,0.0,text,20,2018/05/18 09:05:00 AM,8,,,,,,,
 Stalking,Incident Date,0.0,text,20,2018/05/18,8,,,,,,,
@@ -3373,12 +3424,13 @@ Stalking,Outcome Sub-Type,0.0,text,2,NEG                 ,32,,,,,,,
 Stalking,Outcome Sub-Type Description,0.0,text,2,Negotiated                  ,32,,,,,,,
 Stalking,Dispo Case Type,0.0,text,2,Misdemeanor    ,22,,,,,,,
 Stalking,Sentence Type,0.0,text,4,ISS Formal Probation/County Ja,19,,,,,,,
-Stalking,SP Term,1.0,Decimal number,0,,,,,,,,,
-Stalking,CJ Term,0.21052631578947367,Decimal number,10,,,187.73333333333332,20.0,93.25,118.0,365.0,365.0,134.85571685255354
+Stalking,SP Term,0.0,text,1,       ,38,,,,,,,
+Stalking,CJ Term,0.0,text,11,1.0,10.0,,,,,,,
 Stalking,Supervision Term,0.0,text,4,3.0,25.0,,,,,,,
-Stalking,Program Term,0.6052631578947368,Decimal number,2,,,342.6666666666667,30.0,365.0,365.0,365.0,365.0,86.49662806529898
+Stalking,Program Term,1.0,Decimal number,0,,,,,,,,,
 Stalking,Forfeiture,0.0,text,1,                ,38,,,,,,,
 Stalking,Outcome Description,0.0,text,3,Guilty Plea        ,30,,,,,,,
+Stalking,dismissed,0.0,,1,False,38,,,,,,,
 Stolen Property,index,0.0,Whole Number,989,,,14934.900910010112,151.0,6666.0,14572.0,23210.0,30672.0,8876.717954971564
 Stolen Property,Incident Datetime,0.0,text,645,2018/05/23 08:30:00 AM,16,,,,,,,
 Stolen Property,Incident Date,0.0,text,490,2018/05/23,16,,,,,,,
@@ -3438,12 +3490,13 @@ Stolen Property,Outcome Sub-Type,0.0,text,10,NEG                 ,543,,,,,,,
 Stolen Property,Outcome Sub-Type Description,0.0,text,10,Negotiated                  ,543,,,,,,,
 Stolen Property,Dispo Case Type,0.0,text,2,Felony         ,584,,,,,,,
 Stolen Property,Sentence Type,0.0,text,10,                              ,430,,,,,,,
-Stolen Property,SP Term,0.9211324570273003,Decimal number,12,,,924.9252136752135,0.0,486.6666666666667,730.0,1095.0,3041.6666666666665,627.9988543565872
-Stolen Property,CJ Term,0.5348837209302325,Decimal number,98,,,87.90903010033445,0.0,6.0,30.0,165.0,1095.0,118.46963810606572
-Stolen Property,Supervision Term,0.0,text,12,                ,576,,,,,,,
-Stolen Property,Program Term,0.974721941354904,Decimal number,11,,,159.11846153846153,0.0,1.6666666666666667,84.23076923076923,182.5,730.0,196.323315500897
+Stolen Property,SP Term,0.0,text,14,       ,793,,,,,,,
+Stolen Property,CJ Term,0.0,text,91,       ,414,,,,,,,
+Stolen Property,Supervision Term,0.0,text,12,                ,458,,,,,,,
+Stolen Property,Program Term,0.8756319514661274,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Stolen Property,Forfeiture,0.0,text,2,                ,986,,,,,,,
 Stolen Property,Outcome Description,0.0,text,6,Guilty Plea        ,566,,,,,,,
+Stolen Property,dismissed,0.0,,2,False,871,,,,,,,
 Suspicious Occ,index,0.0,Whole Number,27,,,16536.666666666668,208.0,11094.5,17383.0,19667.0,29806.0,7682.72474701922
 Suspicious Occ,Incident Datetime,0.0,text,16,2019/04/01 04:00:00 AM,5,,,,,,,
 Suspicious Occ,Incident Date,0.0,text,16,2019/04/01,5,,,,,,,
@@ -3503,12 +3556,13 @@ Suspicious Occ,Outcome Sub-Type,0.0,text,5,NEG                 ,13,,,,,,,
 Suspicious Occ,Outcome Sub-Type Description,0.0,text,5,Negotiated                  ,13,,,,,,,
 Suspicious Occ,Dispo Case Type,0.0,text,2,Felony         ,14,,,,,,,
 Suspicious Occ,Sentence Type,0.0,text,4,                              ,14,,,,,,,
-Suspicious Occ,SP Term,0.9259259259259259,Decimal number,2,,,790.8333333333334,486.6666666666667,638.75,790.8333333333334,942.9166666666667,1095.0,430.1566252218164
-Suspicious Occ,CJ Term,0.5555555555555556,Decimal number,5,,,45.916666666666664,10.0,10.0,13.0,15.0,250.0,80.40856844135381
-Suspicious Occ,Supervision Term,0.0,text,3,                ,16,,,,,,,
-Suspicious Occ,Program Term,0.8148148148148148,Decimal number,1,,,1.25,1.25,1.25,1.25,1.25,1.25,0.0
+Suspicious Occ,SP Term,0.0,text,4,       ,21,,,,,,,
+Suspicious Occ,CJ Term,0.0,text,7,       ,11,,,,,,,
+Suspicious Occ,Supervision Term,0.0,text,4,                ,12,,,,,,,
+Suspicious Occ,Program Term,0.8518518518518519,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Suspicious Occ,Forfeiture,0.0,text,1,                ,27,,,,,,,
 Suspicious Occ,Outcome Description,0.0,text,5,Guilty Plea        ,14,,,,,,,
+Suspicious Occ,dismissed,0.0,,2,False,23,,,,,,,
 Suspicious Package,index,0.0,Whole Number,1,,,17428.0,17428.0,17428.0,17428.0,17428.0,17428.0,
 Suspicious Package,Incident Datetime,0.0,text,1,2018/11/29 11:14:00 AM,1,,,,,,,
 Suspicious Package,Incident Date,0.0,text,1,2018/11/29,1,,,,,,,
@@ -3568,12 +3622,13 @@ Suspicious Package,Outcome Sub-Type,0.0,text,1,NEG                 ,1,,,,,,,
 Suspicious Package,Outcome Sub-Type Description,0.0,text,1,Negotiated                  ,1,,,,,,,
 Suspicious Package,Dispo Case Type,0.0,text,1,Felony         ,1,,,,,,,
 Suspicious Package,Sentence Type,0.0,text,1,State Prison                  ,1,,,,,,,
-Suspicious Package,SP Term,0.0,Decimal number,1,,,486.6666666666667,486.6666666666667,486.6666666666667,486.6666666666667,486.6666666666667,486.6666666666667,
-Suspicious Package,CJ Term,1.0,Decimal number,0,,,,,,,,,
+Suspicious Package,SP Term,0.0,text,1,16.0,1.0,,,,,,,
+Suspicious Package,CJ Term,0.0,text,1,       ,1,,,,,,,
 Suspicious Package,Supervision Term,0.0,text,1,                ,1,,,,,,,
 Suspicious Package,Program Term,1.0,Decimal number,0,,,,,,,,,
 Suspicious Package,Forfeiture,0.0,text,1,                ,1,,,,,,,
 Suspicious Package,Outcome Description,0.0,text,1,Guilty Plea        ,1,,,,,,,
+Suspicious Package,dismissed,0.0,,1,False,1,,,,,,,
 Theft From Vehicle,index,0.0,Whole Number,768,,,13858.841145833334,51.0,5977.75,13712.5,20972.25,30649.0,8717.621355915302
 Theft From Vehicle,Incident Datetime,0.0,text,473,2018/05/23 08:30:00 AM,16,,,,,,,
 Theft From Vehicle,Incident Date,0.0,text,372,2018/05/23,16,,,,,,,
@@ -3633,12 +3688,13 @@ Theft From Vehicle,Outcome Sub-Type,0.0,text,10,NEG                 ,420,,,,,,,
 Theft From Vehicle,Outcome Sub-Type Description,0.0,text,10,Negotiated                  ,420,,,,,,,
 Theft From Vehicle,Dispo Case Type,0.0,text,2,Felony         ,501,,,,,,,
 Theft From Vehicle,Sentence Type,0.0,text,10,                              ,300,,,,,,,
-Theft From Vehicle,SP Term,0.8958333333333334,Decimal number,9,,,770.3020833333334,0.0,486.6666666666667,730.0,1095.0,1825.0,357.60241527106666
-Theft From Vehicle,CJ Term,0.5247395833333334,Decimal number,78,,,91.33287671232877,0.0,6.0,40.0,182.5,486.6666666666667,107.05279866290921
-Theft From Vehicle,Supervision Term,0.0,text,8,                ,448,,,,,,,
-Theft From Vehicle,Program Term,0.98828125,Decimal number,6,,,264.2592592592593,0.0,2.0833333333333335,182.5,365.0,1095.0,354.17529265094527
+Theft From Vehicle,SP Term,0.0,text,11,       ,609,,,,,,,
+Theft From Vehicle,CJ Term,0.0,text,71,       ,326,,,,,,,
+Theft From Vehicle,Supervision Term,0.0,text,8,                ,369,,,,,,,
+Theft From Vehicle,Program Term,0.8919270833333334,Decimal number,2,,,641526528.6144578,0.0,0.0,0.0,0.0,17748900625.0,3332967710.7140813
 Theft From Vehicle,Forfeiture,0.0,text,1,                ,768,,,,,,,
 Theft From Vehicle,Outcome Description,0.0,text,6,Guilty Plea        ,475,,,,,,,
+Theft From Vehicle,dismissed,0.0,,2,False,689,,,,,,,
 Traffic Collision,index,0.0,Whole Number,46,,,17928.108695652172,4166.0,11316.25,17715.5,25311.75,29769.0,8375.722273938227
 Traffic Collision,Incident Datetime,0.0,text,40,2018/03/16 12:00:00 AM,2,,,,,,,
 Traffic Collision,Incident Date,0.0,text,39,2018/03/16,2,,,,,,,
@@ -3698,12 +3754,13 @@ Traffic Collision,Outcome Sub-Type,0.0,text,4,NEG                 ,36,,,,,,,
 Traffic Collision,Outcome Sub-Type Description,0.0,text,4,Negotiated                  ,36,,,,,,,
 Traffic Collision,Dispo Case Type,0.0,text,2,Misdemeanor    ,39,,,,,,,
 Traffic Collision,Sentence Type,0.0,text,4,ISS Formal Probation/County Ja,17,,,,,,,
-Traffic Collision,SP Term,0.9347826086956522,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Traffic Collision,CJ Term,0.4782608695652174,Decimal number,10,,,18.4375,0.0,1.0,10.0,21.25,182.5,36.33877809555875
-Traffic Collision,Supervision Term,0.0,text,6,3.0,17.0,,,,,,,
-Traffic Collision,Program Term,0.5652173913043478,Decimal number,8,,,488.7833333333334,0.0,7.9375,136.875,273.75,6570.0,1441.1426913638163
+Traffic Collision,SP Term,0.0,text,2,       ,41,,,,,,,
+Traffic Collision,CJ Term,0.0,text,11,       ,20,,,,,,,
+Traffic Collision,Supervision Term,0.0,text,7,3.0,17.0,,,,,,,
+Traffic Collision,Program Term,0.8913043478260869,Decimal number,2,,,39967.5,0.0,0.0,0.0,0.0,199837.5,89370.04689072285
 Traffic Collision,Forfeiture,0.0,text,1,                ,46,,,,,,,
 Traffic Collision,Outcome Description,0.0,text,5,Guilty Plea        ,35,,,,,,,
+Traffic Collision,dismissed,0.0,,2,False,44,,,,,,,
 Traffic Collision - Hit & Run,index,0.0,Whole Number,115,,,14953.130434782608,882.0,7377.5,13893.0,22012.0,30696.0,8729.930169453779
 Traffic Collision - Hit & Run,Incident Datetime,0.0,text,96,2018/04/02 10:09:00 PM,4,,,,,,,
 Traffic Collision - Hit & Run,Incident Date,0.0,text,93,2018/04/02,4,,,,,,,
@@ -3763,12 +3820,13 @@ Traffic Collision - Hit & Run,Outcome Sub-Type,0.0,text,8,NEG                 ,6
 Traffic Collision - Hit & Run,Outcome Sub-Type Description,0.0,text,8,Negotiated                  ,64,,,,,,,
 Traffic Collision - Hit & Run,Dispo Case Type,0.0,text,2,Misdemeanor    ,59,,,,,,,
 Traffic Collision - Hit & Run,Sentence Type,0.0,text,7,                              ,54,,,,,,,
-Traffic Collision - Hit & Run,SP Term,0.9478260869565217,Decimal number,4,,,730.0,0.0,0.0,365.0,1003.75,2555.0,1006.2355589025861
-Traffic Collision - Hit & Run,CJ Term,0.6,Decimal number,24,,,97.96376811594205,1.0,5.0,23.0,174.0,730.0,160.90791655072678
-Traffic Collision - Hit & Run,Supervision Term,0.0,text,6,                ,68,,,,,,,
-Traffic Collision - Hit & Run,Program Term,0.9130434782608695,Decimal number,4,,,182.5,91.25,91.25,136.875,273.75,365.0,105.36642412710671
+Traffic Collision - Hit & Run,SP Term,0.0,text,5,       ,100,,,,,,,
+Traffic Collision - Hit & Run,CJ Term,0.0,text,24,       ,60,,,,,,,
+Traffic Collision - Hit & Run,Supervision Term,0.0,text,6,                ,59,,,,,,,
+Traffic Collision - Hit & Run,Program Term,0.9130434782608695,Decimal number,2,,,3647034.375,0.0,0.0,0.0,0.0,36470343.75,11532935.329928648
 Traffic Collision - Hit & Run,Forfeiture,0.0,text,1,                ,115,,,,,,,
 Traffic Collision - Hit & Run,Outcome Description,0.0,text,5,Guilty Plea        ,64,,,,,,,
+Traffic Collision - Hit & Run,dismissed,0.0,,2,False,106,,,,,,,
 Traffic Violation Arrest,index,0.0,Whole Number,303,,,15281.171617161715,317.0,8378.0,14499.0,22170.0,30595.0,8129.348625184417
 Traffic Violation Arrest,Incident Datetime,0.0,text,261,2018/11/25 09:33:00 PM,10,,,,,,,
 Traffic Violation Arrest,Incident Date,0.0,text,231,2018/11/25,10,,,,,,,
@@ -3828,12 +3886,13 @@ Traffic Violation Arrest,Outcome Sub-Type,0.0,text,10,NEG                 ,150,,
 Traffic Violation Arrest,Outcome Sub-Type Description,0.0,text,10,Negotiated                  ,150,,,,,,,
 Traffic Violation Arrest,Dispo Case Type,0.0,text,3,Misdemeanor    ,238,,,,,,,
 Traffic Violation Arrest,Sentence Type,0.0,text,6,                              ,151,,,,,,,
-Traffic Violation Arrest,SP Term,0.9867986798679867,Decimal number,2,,,121.66666666666667,0.0,0.0,0.0,121.66666666666667,486.6666666666667,243.33333333333334
-Traffic Violation Arrest,CJ Term,0.570957095709571,Decimal number,28,,,29.04230769230769,0.0,2.0,10.0,30.0,365.0,57.47773531245622
-Traffic Violation Arrest,Supervision Term,0.0,text,6,                ,172,,,,,,,
-Traffic Violation Arrest,Program Term,0.7458745874587459,Decimal number,9,,,265.8492340992341,0.5,91.25,91.25,547.5,912.5,229.91440326471354
+Traffic Violation Arrest,SP Term,0.0,text,3,       ,238,,,,,,,
+Traffic Violation Arrest,CJ Term,0.0,text,27,       ,113,,,,,,,
+Traffic Violation Arrest,Supervision Term,0.0,text,7,                ,112,,,,,,,
+Traffic Violation Arrest,Program Term,0.7887788778877888,Decimal number,3,,,3165.8284505208335,0.0,0.0,0.0,0.0,199837.5,24975.365672012926
 Traffic Violation Arrest,Forfeiture,0.0,text,1,                ,303,,,,,,,
 Traffic Violation Arrest,Outcome Description,0.0,text,6,Guilty Plea        ,159,,,,,,,
+Traffic Violation Arrest,dismissed,0.0,,2,False,242,,,,,,,
 Trespass,index,0.0,Whole Number,230,,,15818.65652173913,294.0,9465.25,16100.0,22436.25,30024.0,8283.368395357684
 Trespass,Incident Datetime,0.0,text,187,2019/06/13 01:01:00 PM,7,,,,,,,
 Trespass,Incident Date,0.0,text,179,2019/06/13,7,,,,,,,
@@ -3893,12 +3952,13 @@ Trespass,Outcome Sub-Type,0.0,text,10,                    ,88,,,,,,,
 Trespass,Outcome Sub-Type Description,0.0,text,10,                            ,88,,,,,,,
 Trespass,Dispo Case Type,0.0,text,2,Misdemeanor    ,169,,,,,,,
 Trespass,Sentence Type,0.0,text,8,                              ,153,,,,,,,
-Trespass,SP Term,0.9782608695652174,Decimal number,4,,,1460.0,365.0,1095.0,1825.0,1825.0,2190.0,730.0
-Trespass,CJ Term,0.6695652173913044,Decimal number,40,,,100.11184210526316,0.0,17.0,41.0,182.0,365.0,114.25247914696673
-Trespass,Supervision Term,0.0,text,7,                ,166,,,,,,,
-Trespass,Program Term,0.9521739130434783,Decimal number,3,,,165.9848484848485,0.8333333333333334,60.833333333333336,60.833333333333336,365.0,365.0,158.7589971999042
+Trespass,SP Term,0.0,text,6,       ,173,,,,,,,
+Trespass,CJ Term,0.0,text,40,       ,104,,,,,,,
+Trespass,Supervision Term,0.0,text,7,                ,116,,,,,,,
+Trespass,Program Term,0.7695652173913043,Decimal number,2,,,917492.9245283019,0.0,0.0,0.0,0.0,48627125.0,6679449.313203395
 Trespass,Forfeiture,0.0,text,1,                ,230,,,,,,,
 Trespass,Outcome Description,0.0,text,7,Guilty Plea        ,84,,,,,,,
+Trespass,dismissed,0.0,,2,False,178,,,,,,,
 Vandalism,index,0.0,Whole Number,1221,,,16180.242424242424,53.0,8687.0,17078.0,23751.0,30703.0,8817.825500424491
 Vandalism,Incident Datetime,0.0,text,854,2018/07/02 09:00:00 AM,16,,,,,,,
 Vandalism,Incident Date,0.0,text,579,2018/08/03,16,,,,,,,
@@ -3958,12 +4018,13 @@ Vandalism,Outcome Sub-Type,0.0,text,10,NEG                 ,566,,,,,,,
 Vandalism,Outcome Sub-Type Description,0.0,text,10,Negotiated                  ,566,,,,,,,
 Vandalism,Dispo Case Type,0.0,text,2,Misdemeanor    ,764,,,,,,,
 Vandalism,Sentence Type,0.0,text,11,                              ,584,,,,,,,
-Vandalism,SP Term,0.9615069615069615,Decimal number,10,,,775.3014184397163,0.0,243.33333333333334,730.0,1095.0,1825.0,488.22930785757256
-Vandalism,CJ Term,0.5675675675675675,Decimal number,94,,,66.81265782828284,0.0,9.75,26.5,70.0,1095.0,118.47327219757919
-Vandalism,Supervision Term,0.0,text,6,                ,738,,,,,,,
-Vandalism,Program Term,0.9680589680589681,Decimal number,12,,,168.48824786324784,0.4166666666666667,90.0,91.25,273.75,365.0,127.60290214150311
+Vandalism,SP Term,0.0,text,11,       ,1019,,,,,,,
+Vandalism,CJ Term,0.0,text,83,       ,541,,,,,,,
+Vandalism,Supervision Term,0.0,text,7,                ,585,,,,,,,
+Vandalism,Program Term,0.8730548730548731,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Vandalism,Forfeiture,0.0,text,1,                ,1221,,,,,,,
 Vandalism,Outcome Description,0.0,text,8,Guilty Plea        ,635,,,,,,,
+Vandalism,dismissed,0.0,,2,False,1066,,,,,,,
 Vehicle Impounded,index,0.0,Whole Number,30,,,17095.2,719.0,12266.5,17001.0,22973.5,29100.0,7483.51996009254
 Vehicle Impounded,Incident Datetime,0.0,text,27,2019/10/17 10:59:00 PM,2,,,,,,,
 Vehicle Impounded,Incident Date,0.0,text,26,2019/10/17,2,,,,,,,
@@ -4023,12 +4084,13 @@ Vehicle Impounded,Outcome Sub-Type,0.0,text,4,                    ,13,,,,,,,
 Vehicle Impounded,Outcome Sub-Type Description,0.0,text,4,                            ,13,,,,,,,
 Vehicle Impounded,Dispo Case Type,0.0,text,2,Misdemeanor    ,16,,,,,,,
 Vehicle Impounded,Sentence Type,0.0,text,4,                              ,18,,,,,,,
-Vehicle Impounded,SP Term,1.0,Decimal number,0,,,,,,,,,
-Vehicle Impounded,CJ Term,0.6666666666666666,Decimal number,6,,,50.15,1.0,4.0,10.0,104.25,182.5,70.05317424801122
-Vehicle Impounded,Supervision Term,0.0,text,3,                ,19,,,,,,,
-Vehicle Impounded,Program Term,0.8,Decimal number,2,,,167.29166666666666,91.25,91.25,91.25,91.25,547.5,186.2632825241375
+Vehicle Impounded,SP Term,0.0,text,2,       ,26,,,,,,,
+Vehicle Impounded,CJ Term,0.0,text,8,       ,16,,,,,,,
+Vehicle Impounded,Supervision Term,0.0,text,4,                ,15,,,,,,,
+Vehicle Impounded,Program Term,0.8666666666666667,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Vehicle Impounded,Forfeiture,0.0,text,1,                ,30,,,,,,,
 Vehicle Impounded,Outcome Description,0.0,text,4,Guilty Plea        ,13,,,,,,,
+Vehicle Impounded,dismissed,0.0,,2,False,26,,,,,,,
 Warrant,index,0.0,Whole Number,709,,,14972.1706629055,17.0,7275.0,15095.0,22359.0,30565.0,8459.644707311318
 Warrant,Incident Datetime,0.0,text,534,2019/07/07 02:04:00 PM,14,,,,,,,
 Warrant,Incident Date,0.0,text,414,2019/07/07,14,,,,,,,
@@ -4088,12 +4150,13 @@ Warrant,Outcome Sub-Type,0.0,text,11,NEG                 ,345,,,,,,,
 Warrant,Outcome Sub-Type Description,0.0,text,11,Negotiated                  ,345,,,,,,,
 Warrant,Dispo Case Type,0.0,text,3,Misdemeanor    ,407,,,,,,,
 Warrant,Sentence Type,0.0,text,11,                              ,335,,,,,,,
-Warrant,SP Term,0.9605077574047954,Decimal number,8,,,899.4642857142857,0.0,486.6666666666667,730.0,1095.0,3041.6666666666665,600.933610674728
-Warrant,CJ Term,0.5458392101551481,Decimal number,78,,,61.926501035196694,1.0,11.25,23.5,90.0,537.0,82.66126051042832
-Warrant,Supervision Term,0.0,text,8,                ,446,,,,,,,
-Warrant,Program Term,0.9605077574047954,Decimal number,11,,,260.2724358974359,0.0,60.833333333333336,228.125,365.0,1095.0,244.1181321666144
+Warrant,SP Term,0.0,text,9,       ,537,,,,,,,
+Warrant,CJ Term,0.0,text,75,       ,244,,,,,,,
+Warrant,Supervision Term,0.0,text,8,                ,303,,,,,,,
+Warrant,Program Term,0.7954866008462623,Decimal number,1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Warrant,Forfeiture,0.0,text,2,                ,708,,,,,,,
 Warrant,Outcome Description,0.0,text,7,Guilty Plea        ,379,,,,,,,
+Warrant,dismissed,0.0,,2,False,565,,,,,,,
 Weapons Offense,index,0.0,Whole Number,1610,,,15442.208695652174,3.0,7278.75,15337.5,23709.75,30624.0,9143.578151262913
 Weapons Offense,Incident Datetime,0.0,text,843,2020/01/05 03:42:00 PM,14,,,,,,,
 Weapons Offense,Incident Date,0.0,text,572,2019/01/13,18,,,,,,,
@@ -4153,9 +4216,10 @@ Weapons Offense,Outcome Sub-Type,0.0,text,11,NEG                 ,636,,,,,,,
 Weapons Offense,Outcome Sub-Type Description,0.0,text,11,Negotiated                  ,636,,,,,,,
 Weapons Offense,Dispo Case Type,0.0,text,3,Felony         ,1083,,,,,,,
 Weapons Offense,Sentence Type,0.0,text,9,                              ,911,,,,,,,
-Weapons Offense,SP Term,0.9453416149068323,Decimal number,14,,,1479.3560606060607,0.0,486.6666666666667,1095.0,1825.0,8395.0,1720.0218380474234
-Weapons Offense,CJ Term,0.6434782608695652,Decimal number,103,,,96.52918118466899,0.0,5.0,35.0,180.0,1404.0,141.8926573495
-Weapons Offense,Supervision Term,0.0,text,10,                ,1106,,,,,,,
-Weapons Offense,Program Term,0.9571428571428572,Decimal number,14,,,320.82850241545896,0.0,60.833333333333336,365.0,365.0,1095.0,253.89294722931874
+Weapons Offense,SP Term,0.0,text,14,       ,1058,,,,,,,
+Weapons Offense,CJ Term,0.0,text,95,       ,572,,,,,,,
+Weapons Offense,Supervision Term,0.0,text,11,                ,642,,,,,,,
+Weapons Offense,Program Term,0.7037267080745342,Decimal number,5,,,155481069.48812023,0.0,0.0,0.0,0.0,17748900625.0,1625255262.8416617
 Weapons Offense,Forfeiture,0.0,text,2,                ,1609,,,,,,,
 Weapons Offense,Outcome Description,0.0,text,7,Guilty Plea        ,691,,,,,,,
+Weapons Offense,dismissed,0.0,,2,False,1146,,,,,,,

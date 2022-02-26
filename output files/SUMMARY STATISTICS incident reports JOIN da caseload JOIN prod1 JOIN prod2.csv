@@ -58,9 +58,10 @@ Outcome Sub-Type,0.0,text,14,NEG                 ,15334,,,,,,,
 Outcome Sub-Type Description,0.0,text,14,Negotiated                  ,15334,,,,,,,
 Dispo Case Type,0.0,text,4,Felony         ,17000,,,,,,,
 Sentence Type,0.0,text,11,                              ,14839,,,,,,,
-SP Term,0.9410845139228139,Decimal number,30,,,1154.3444812972177,0.0,730.0,1095.0,1460.0,8760.0,1041.8566876158673
-CJ Term,0.5750854909623839,Decimal number,267,,,94.13605102263415,0.0,10.0,38.0,120.0,34310.0,441.5283059497196
-Supervision Term,0.0,text,22,                ,18952,,,,,,,
-Program Term,0.9439179286761114,Decimal number,45,,,290.88972646594596,0.0,91.25,273.75,365.0,6570.0,348.8329687618908
+SP Term,0.0,text,29,       ,24037,,,,,,,
+CJ Term,0.0,text,246,       ,12858,,,,,,,
+Supervision Term,0.0,text,22,                ,14125,,,,,,,
+Program Term,0.8366715518645171,Decimal number,13,,,120364827.60935943,0.0,0.0,0.0,0.0,17748900625.0,1437993065.436253
 Forfeiture,0.0,text,21,                ,30628,,,,,,,
 Outcome Description,0.0,text,9,Guilty Plea        ,16136,,,,,,,
+dismissed,0.0,,2,False,25832,,,,,,,
