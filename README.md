@@ -16,6 +16,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Excel spreadsheet with pivot tables. Possibly Power BI report if people can use that.
 
 
+## [1.0.0] - 2022-02-26 07:44
+
+### Added
+
+- Added data on street robberies, and ranked according to whether the case was dismissed and the defendant served time in county jail or state prison.
+
+### Changed
+
+- Now all of the "output files" are Excel workbooks.
+- Removed unneeded columns from police report output data.
+
 ## [0.1.0] - 2022-02-25
  
 ### Added
