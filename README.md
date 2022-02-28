@@ -15,6 +15,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Excel spreadsheet with pivot tables. Possibly Power BI report if people can use that.
 
+## [2.0.0] - 2022-02-28 12:29
+
+### Added
+
+- "incident reports JOIN da caseload JOIN prod1 JOIN prod2 BY YEAR.xlsx" and "Robberies BY YEAR.xlsx", which have a spreadsheet for 2018-2019 data and another for 2020-2021 data.
+- "incident reports...BY YEAR.xlsx" has charts for visualizing the number of dismissals for each incident category, and also the average CJ and SP terms for each incident category.
 
 ## [1.0.0] - 2022-02-26 07:44
 
