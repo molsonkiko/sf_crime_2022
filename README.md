@@ -15,6 +15,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Excel spreadsheet with pivot tables. Possibly Power BI report if people can use that.
 
+## [3.0.0] - 2022-03-01
+
+### Added
+
+- several files corresponding to subsets of the data believed to be of interest
+
+
 ## [2.0.0] - 2022-02-28 12:29
 
 ### Added
